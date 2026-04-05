@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "ehartz01",
+    "is_private": false,
+    "title": "School Experiences of Deaf Individuals in Egypt",
+    "description": "This project is one piece of a larger one documenting the structure of Egyptian Sign Language. In 2024 and 2025, we interviewed over 60 members of the Deaf community in nine regions of Egypt, with one of the focuses of the interviews relating to school experiences. \nOn this site, you can learn about Deaf Education in Egypt directly from annotated interviews segments.\n\nيعتبر هذا المشروع جزءا من مشروع أكبر وهو توثيق لغة الإشارة المصرية؟ في سنتي ٢٠٢٤ و٢٠٢٥ تم تصوير مقابلات اجتماعية لغوية مع أكثر من ٦٠ فرد أصم في ٩ مناطق في مصر وبعض الأسئلة تتركز في موضوع تجارب الصم في المدارس. \nعلى هذا الموقع, يمكنك التعلم عن تعليم الصم في مصر مباشرة من مقاطع مترجمة لهذه المقابلات.",
+    "language": "en",
+    "slug": "egyptiandeafschoolexperiences",
+    "creator": "ehartz01",
+    "authors": "Ethan Hartzell, Ibrahim Ayman, Ghofran Gamal",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-04-05T23:21:20.569Z",
+    "updated_at": "2026-04-05T23:21:20.569Z"
   }
 }
