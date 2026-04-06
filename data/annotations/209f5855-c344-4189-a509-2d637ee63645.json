@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 2,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "What's your name and what's your sign name?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Ghofran, NAME, POSS",
-          "tag": "2SG, WH, NAMESIGN"
-        }
-      ],
-      "uuid": "fa980ade-a62e-4482-81c3-0069fb5ce3ae"
-    },
-    {
       "start_time": 1,
       "end_time": 6,
       "annotation": [
