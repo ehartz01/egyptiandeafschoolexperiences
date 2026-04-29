@@ -2137,6 +2137,7415 @@
         }
       ],
       "uuid": "5ffa67c7-4360-4e1d-ad47-a7cd382345eb"
+    },
+    {
+      "start_time": 43200,
+      "end_time": 43320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اسمك ايه واشارتك ايه (الحسن)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاسم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بتاعك او الخاص بيك"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "او"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اية"
+        }
+      ],
+      "uuid": "4d323d13-9208-45cf-8eef-3014374d597c"
+    },
+    {
+      "start_time": 43260,
+      "end_time": 43560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اشارتي (كده) واسمي الحسن "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاسم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "س"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ن"
+        }
+      ],
+      "uuid": "0053c640-e786-470e-a7aa-42aa5c9f3824"
+    },
+    {
+      "start_time": 43740,
+      "end_time": 43920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "لالا اانت اتلغبط اسم الحسن"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "غلط او اتلخبط"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "س"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ن"
+        }
+      ],
+      "uuid": "0f3a6456-f38d-489a-b901-9a066999b34f"
+    },
+    {
+      "start_time": 44400,
+      "end_time": 45240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت اسمك ايه و اشارتك ايه"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اسم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "س"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "د"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشارة"
+        }
+      ],
+      "uuid": "e7b9c269-428c-4822-95dc-5a61f210123e"
+    },
+    {
+      "start_time": 44460,
+      "end_time": 45180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا السيد"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "س"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "د حرف قديم"
+        }
+      ],
+      "uuid": "672f54ff-635a-475e-b910-1cb20ec46926"
+    },
+    {
+      "start_time": 45240,
+      "end_time": 45300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اشارتي كدا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "2f070e61-43a4-4d13-8245-255957098240"
+    },
+    {
+      "start_time": 45360,
+      "end_time": 45660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "سبب الاشاره دي سبب انا عندي ٣ اخوات فطلع اسمي السيد الاول "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشاره"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سبب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اخويا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ثلاث"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تقيل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشاره الاول"
+        }
+      ],
+      "uuid": "5d260a5f-9af3-4038-a5e2-49e9963fdb73"
+    },
+    {
+      "start_time": 46560,
+      "end_time": 4020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت من الاول اتولد فين في الاسكندرية واتربيت فين في الشاطبي اكيد"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتولد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اسكندرية"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتربيت او كبيرت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الشاطبي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتربيت او كبرت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اكيد"
+        }
+      ],
+      "uuid": "a0fd6478-b47a-4257-8591-47c9454c83c0"
+    },
+    {
+      "start_time": 46740,
+      "end_time": 3660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اتولدت هنا في الاسكندرية"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتولد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاسكندرية"
+        }
+      ],
+      "uuid": "01f51efb-065e-4174-ada9-a7fa4de66836"
+    },
+    {
+      "start_time": 3720,
+      "end_time": 3840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "فين؟ عند الجامعة في الشاطبي هناك"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كلية او جامعة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الشاطبي"
+        }
+      ],
+      "uuid": "6de1b5b1-77d1-4929-aba5-d9a6d4a34b85"
+    },
+    {
+      "start_time": 3840,
+      "end_time": 3960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "عارف عند القبة هناك"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "القبة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هناك"
+        }
+      ],
+      "uuid": "f1f7c9ba-5b87-4c25-a777-5e854e9928b5"
+    },
+    {
+      "start_time": 3960,
+      "end_time": 4080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أيوا مولود هنا أصلا وكبرت هنا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ايوا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مولود"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "أصل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كبرت"
+        }
+      ],
+      "uuid": "88423e1e-235f-42af-aa44-8b82dcec469c"
+    },
+    {
+      "start_time": 4080,
+      "end_time": 4320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "بس أمي وأبويا وأجدادي أصلا من  البحري"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "امي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ابي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بحري"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اجدادي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هناك"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "زمان"
+        }
+      ],
+      "uuid": "6dbe9315-ba74-4f65-a655-9ad11fff4dbd"
+    },
+    {
+      "start_time": 4320,
+      "end_time": 4560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "عارف أنا منين؟ من الفلاحين انا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ايه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هناك"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ارض زراعية مقصود الفلاحين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "أنا"
+        }
+      ],
+      "uuid": "6e4baf5e-0e41-4f44-910b-361e14e0b8b8"
+    },
+    {
+      "start_time": 4500,
+      "end_time": 4980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اتولد فين الاساسي القبازي في الاسكندرية"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتولد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بجد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "القباري"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاسكندرية"
+        }
+      ],
+      "uuid": "28d962bc-9bde-4c7a-972c-e9c2758de528"
+    },
+    {
+      "start_time": 4620,
+      "end_time": 4920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنا اتولدت هناك في القباري بالظبط"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتولد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بجد بجد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "القباري"
+        }
+      ],
+      "uuid": "d9d5afc1-7334-44f7-8566-5fad4fc6c74b"
+    },
+    {
+      "start_time": 4920,
+      "end_time": 5220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أيوا كبرت وانا هناك على طول."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "القباري"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ايوا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بجد او اكيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتربيت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو هو او دايما"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فضل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "أم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتولد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هناك"
+        }
+      ],
+      "uuid": "94d1d1bd-210c-4703-883f-07f02b41b802"
+    },
+    {
+      "start_time": 5760,
+      "end_time": 6180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت عندك كام سنة ٥١ طب اتولد في عام ١٩٠٠ وكام"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كم سنة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دلوقتي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٥١"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتولد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "في سنة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "١٩٠٠"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "وكام"
+        }
+      ],
+      "uuid": "e97d834e-74cc-4614-89d6-16dcb39061c4"
+    },
+    {
+      "start_time": 5880,
+      "end_time": 6600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنا عندي ٥١ سنة. اتولدت في سنة ١٩٧٣ خلال الحرب أيام أنور السادات"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٥١"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "١٩٧٣"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "حرب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "السادات حرب ٧٧٣"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "السادات"
+        }
+      ],
+      "uuid": "8698b49f-6d87-483f-8c24-d9205c1007cb"
+    },
+    {
+      "start_time": 7080,
+      "end_time": 7380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت مولود سنة كام وعندك كام سنة؟"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتولد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "في سنة كام"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كام سنة"
+        }
+      ],
+      "uuid": "66fe5c0b-4e36-4209-8482-aa4bbb670541"
+    },
+    {
+      "start_time": 7140,
+      "end_time": 7500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنا مولود في سنة ٧٦ وعندي ٤٨ سنة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٧٦"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٤٨"
+        }
+      ],
+      "uuid": "07e89a6a-47f9-486a-aa25-e3c063e52344"
+    },
+    {
+      "start_time": 8100,
+      "end_time": 8340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هل انت اتولدت أصم في الأصل؟ "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتولد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اصل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "او"
+        }
+      ],
+      "uuid": "8923f4ed-8169-4277-ab14-b4548be379af"
+    },
+    {
+      "start_time": 8220,
+      "end_time": 8340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اه اصلي صم "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اصل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتولد"
+        }
+      ],
+      "uuid": "3d0f2db0-e4d8-40f2-8e07-dba3bc2a7bb6"
+    },
+    {
+      "start_time": 8400,
+      "end_time": 8640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت اتولدت اصم؟"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتولد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        }
+      ],
+      "uuid": "e2e69025-bd0d-42f4-a6c2-2180dabfbdae"
+    },
+    {
+      "start_time": 8460,
+      "end_time": 8580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا اتولد من صغير اصم زاي ما انا صم "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتولد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "زاي ما انا"
+        }
+      ],
+      "uuid": "1c1f3ddb-bb11-4809-ae1e-a8beac4a4345"
+    },
+    {
+      "start_time": 9000,
+      "end_time": 9180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت عندك اخوات اصم او اقارب صم"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اخوات"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "في"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاقارب"
+        }
+      ],
+      "uuid": "0766717f-bff5-47e9-8a8c-132eb1e38b8c"
+    },
+    {
+      "start_time": 9120,
+      "end_time": 9420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "فيه أربع متكلمين في عائلتي. مفيش أي حد أصم غيري- أنا الوحيد"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "متكلمين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سامعين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٤"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا او خالص"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "أنا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "١"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صفر"
+        }
+      ],
+      "uuid": "517661fe-cc95-4531-aa29-080e8b71890a"
+    },
+    {
+      "start_time": 9600,
+      "end_time": 9600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "وأنت؟"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "84f61c0c-6505-48d7-85a1-74dc56b5aecb"
+    },
+    {
+      "start_time": 9600,
+      "end_time": 10080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنا امي وأبويا ليهم صلة قرابة من بعيد. اتجوزوا وخلفو   ٢ صم."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "امي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ابويا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عمي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بعيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتجوز"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خلف انجب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٣"
+        }
+      ],
+      "uuid": "f82be69a-2f91-467d-8d7a-6d54c34b60a0"
+    },
+    {
+      "start_time": 10140,
+      "end_time": 10380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "وكمان خلف ٣ متكلمين فمجموعهم ٦"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تاني"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خلف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٣"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "متكلمين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مجموعهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٦"
+        }
+      ],
+      "uuid": "7649d6dc-9c7d-4c75-aaff-a6149aff90aa"
+    },
+    {
+      "start_time": 10380,
+      "end_time": 10560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "واخواتك؟ اخواتك؟"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اخوات"
+        }
+      ],
+      "uuid": "07c0af0a-72da-4994-8a40-03e37df4fc96"
+    },
+    {
+      "start_time": 10500,
+      "end_time": 10680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "الاخوات كلهم ٦. ٣ صم و٣ متكلمين"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اخوات"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٦"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٣ و ٣"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٣ صم"
+        }
+      ],
+      "uuid": "7e39f63b-4d99-4826-83d4-9081f2430e96"
+    },
+    {
+      "start_time": 10800,
+      "end_time": 11040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ووالد والدتك-- هل هما من الصم ولا لا؟"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ام"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        }
+      ],
+      "uuid": "ba0d143e-fcd7-45d4-8ec6-73367324fe99"
+    },
+    {
+      "start_time": 11640,
+      "end_time": 12060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنت اول ما دخلت المدرسة كانت مدرسة الأمل للصم؟...هنا المنشية يعني؟"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "المدرسة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "داخل يخش"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اصلي اصل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ولا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "متكلمين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اصل اصلي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جناكليس حركة دي مدرسة جناكليس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هنا"
+        }
+      ],
+      "uuid": "83c84389-cc8f-438d-80a0-1998503cbd0f"
+    },
+    {
+      "start_time": 11820,
+      "end_time": 12240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا اصلي من الصم وضعاف السمع  واتعلمت هنا في الجعية المنشية بس اول ما سمعت او عرفت انها خلاص انتهت انتقلنا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اصل اصلي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اصل اصلي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرسة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هنا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "المنشية"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جمعية"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اخر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سمع او عرفت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتهدمت ممكن بمعني افلس او انهار او انتهي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انتقل"
+        }
+      ],
+      "uuid": "ce166854-1f9f-4d94-959d-0f9f24e0eebe"
+    },
+    {
+      "start_time": 12480,
+      "end_time": 15120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "بيفكر دة     بيتكلم انجليزي ما شا الله    انا مولد في القباري زي ما انا مدرستي صم اول مره اخشها لسه جديدة في جناكليس بعد مدة طويلة في ٣ ثانوي مريح بالي انا مجموعتي او فصلي فكرنا لا لازم نكمل لجامعة ونكمل فيها انا الاول انا والمجموعة مدرسة قالت لا علي موضوع الجامعة في القلاحين في جامعة اه في جامعة هناك بعد كده مصر صدرت امر ان يكون في جامعة فرحنا انا لما اتخرجت فتح الجامعة لحد دلوقتي"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ده او هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بيفكر او فكرة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فاهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انجليزي اجنبي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انجليزي مقصود اجنبي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ما شا الله"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتولد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "القباري"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو هو زاي ما انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "المدرسة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اخش"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بجد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اول مره"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جديد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدسة جناكليس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو هو زاي ما انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بعد كده"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٣ الاعدادي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مريح بالي يعني مش شاغل بالي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٣ اعدادي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "استني بايد الشمال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرسة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مجموعة الفصل بتاعي فكر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كلية جامعة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "احاول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مجموعة الفصل بتاعي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فكرة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خلاص"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو او ده"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جناكليس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تقول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا ممكن تقول مينفعش"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انتقلنا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الفلاحين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هناك"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كلية جامعة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "موجود في"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كلية"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ناجح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مصر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "امر ممكن اقول اوامر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرسة جناكليس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "افتح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فرح تعير عن الفرح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتحط"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خلصت بمعني اتخرجت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٣ ثانوي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتخرجت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دلوقتي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مده مده طويلة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مستمر"
+        }
+      ],
+      "uuid": "18162a0b-7925-41dc-8c85-6c4027bd4149"
+    },
+    {
+      "start_time": 12900,
+      "end_time": 13080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت اتولد عربي باين سهل"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتولد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عربي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "علي طول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "باين"
+        }
+      ],
+      "uuid": "0e25a0d1-57d7-4431-9483-bffead602255"
+    },
+    {
+      "start_time": 14940,
+      "end_time": 15360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "في الاول كنا انا وهو مع بعض بس قبل كدا لا وانا كنت جديد"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مع بعض"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "قبل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مفيش"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جديد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "أنا"
+        }
+      ],
+      "uuid": "4e5e6b1c-0d04-44f0-9bb6-fe4bc5637ca8"
+    },
+    {
+      "start_time": 15900,
+      "end_time": 16080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أيام الثانوي كل دا مكانش موجود, انا من اوائل اللي جم هنا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٣ ثانوي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ده بيشاور علي الجمعية"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مفيش"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جديدة"
+        }
+      ],
+      "uuid": "0f01e88b-b20b-47ea-a4a1-a3b6bea0f7c5"
+    },
+    {
+      "start_time": 16020,
+      "end_time": 16200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا كنت معاه زاي بعض"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مع بعض"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "زاي بعض"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "واحنا صغيرين"
+        }
+      ],
+      "uuid": "aaa47fda-ece5-420b-b13f-80095584d74e"
+    },
+    {
+      "start_time": 17100,
+      "end_time": 17460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هل انت شايف انك استفدت من المدرسة ولالا؟"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "المدرسة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اخش"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شايف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فايدة ممكن اقول مكسب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "في"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ولا لا"
+        }
+      ],
+      "uuid": "773717c2-c8f6-4228-9380-072a3ee4809f"
+    },
+    {
+      "start_time": 17400,
+      "end_time": 18180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اكيد بنستفيد من المدرسة في المدرسين كويسين بس مش كلهم في وفي المدرسين الكوسين كان معاه هو اما انا لا مش حلوين كل واحد لوحدة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرسة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرسين اشارة قديمة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ناس او اشخاص"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "التمام او المظبوط"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "واحد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اختيار"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتنين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كلهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "المدرسين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "التمام"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اثنين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شديدين ممكن اقول يعاقب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بتاعته او الخاص بيه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "حلوة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ضعيف او نصف نصف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كل واحد لوحده"
+        }
+      ],
+      "uuid": "b616d9e5-ddfe-4e5d-81db-9d7871ba0223"
+    },
+    {
+      "start_time": 17760,
+      "end_time": 18600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "صح صح المدرسين بتاعي صعب كنت بخاف منهم المدرس سبب مش عايز دماغنا تقف اما المدرس بتاعه هو نصف نصف"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صح صح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "المدرسين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بتاعي الخاص بي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بتاعته او الخاص بيه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو صعب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خايف او مرعوب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "المدرس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مين مين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سبب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مخ واقف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "يصلح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بتاعته"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرسة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرسه بمعني ميس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "نصف نصف"
+        }
+      ],
+      "uuid": "20675c38-1236-4fe0-bc90-00d18236ead6"
+    },
+    {
+      "start_time": 19860,
+      "end_time": 20580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ثواني او لحظا دلوقتي في اشخاص من الصم مدرسين جديد مش بنتعلم حاجه واحنا مش بتعرف نقرآ ولا نكتب زاي ما احنا محدتش عنده خبره المهم ياخد فلوس وبس"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لحظا واحدة ممكن اقول ثواني"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دلوقتي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الصم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشخاص"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جديد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرسين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شرح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "آمي لا يعرف يقرآ"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "زاي ما هما هو هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خبره"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا او مفيش"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خالص"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "زاي ما هو هو هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مرتب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "يحط في جيبه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "المدرسين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مكسب يحط في جيبه"
+        }
+      ],
+      "uuid": "0a5e729f-f7ea-4dd8-ae3d-de8d0b7dc380"
+    },
+    {
+      "start_time": 20640,
+      "end_time": 21240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "السبب ايه في ذنب القانون المظبوط هنا او سامي تعليم حلو اما مدرسه"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "السبب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ذنب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "القانون"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مظبوط"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هنا مقصد الجمعيه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سامياشاره شخص"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تعليم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هناك"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرسه جناكليس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كترهملي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شوفت"
+        }
+      ],
+      "uuid": "02c9b4b3-8c1b-4bd4-8447-341798f72625"
+    },
+    {
+      "start_time": 21600,
+      "end_time": 21780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ايه الكاميرآ شغاله شغاله صح "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ايه يشاور"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كاميرآ"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شغاله"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شغال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صح"
+        }
+      ],
+      "uuid": "8734f268-8ca5-4fe7-9026-714d370d0e9d"
+    },
+    {
+      "start_time": 21840,
+      "end_time": 22200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "احنا بنقل اللي مكتوب علي الصابوره وبس من غير ما يسالوني"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرسه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جناكليس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عارف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صابوره"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بنقل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "نكتب علي الكراسه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اساله"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مفيش"
+        }
+      ],
+      "uuid": "3d14e80f-2e44-4581-b35b-5e4b86df1a2f"
+    },
+    {
+      "start_time": 21900,
+      "end_time": 22080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هو هيقصقص الفيديوهات دي صح هو قالي انه هقص الفيديوهات"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هيقصقصبمعني هيقص الفيديو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هيقص"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تمام"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "قالي انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اخر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جامد"
+        }
+      ],
+      "uuid": "d0bfa838-9d0e-4efb-8635-431907102d1f"
+    },
+    {
+      "start_time": 22500,
+      "end_time": 22560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا مخي وقف"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مش عارف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مخ وقف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        }
+      ],
+      "uuid": "4e5839f4-e9c9-4785-ad39-fc03a8274617"
+    },
+    {
+      "start_time": 22800,
+      "end_time": 23340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "لما استلمت الشهاده التقدير ورحت الشركه كويسه جدا بس هما رافضين "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شهاده تقدير"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دبلومه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ودقه الشهاده"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اخش او اروح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الشركه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "قيمه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "علامه تعجب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ممنوع"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شهاده"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عمل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "في اخر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "طرد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "في و في"
+        }
+      ],
+      "uuid": "b99b8e4d-67cb-4663-8c09-fc54b8e1bd8f"
+    },
+    {
+      "start_time": 23940,
+      "end_time": 24180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "طبع الصم انهم عندهم مهاره في الاقناع وكمان كويسين في العمل"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الصم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مهاره مهاره في الاقناع"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "طبع طبعهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الشغل او العمل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "العمل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "طبع"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        }
+      ],
+      "uuid": "247b6cd7-6682-4777-a514-61b1761012ce"
+    },
+    {
+      "start_time": 24900,
+      "end_time": 25320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "سوال انا شغال الاول شيف في فندق"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سوال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شغل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "قبل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مطعم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مطعم شيف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شفل انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شيف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الشغل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فندق"
+        }
+      ],
+      "uuid": "d5ffae23-3865-49df-8d79-6bac2ae297e3"
+    },
+    {
+      "start_time": 25320,
+      "end_time": 25500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "شغال حلو بس كتابه شويا نصف نصف"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كويس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شغل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "حركه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كتابه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شويا او ثواني"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سوال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شويا"
+        }
+      ],
+      "uuid": "f6db96e2-6954-47f1-b84d-74965d421a06"
+    },
+    {
+      "start_time": 25500,
+      "end_time": 25680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا بقدر اخلص الشغل بسرعة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تعليم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "حاجات وحاجات"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شغل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بخلصه بسرعه او ينهي بسرعه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جامد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بس"
+        }
+      ],
+      "uuid": "620d4724-6f4f-464f-bef6-fb1da01c1c3f"
+    },
+    {
+      "start_time": 26340,
+      "end_time": 26520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "مثلا في حد مفيش شهاده بس شغل ميه "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مثلا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ميه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شغل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شهاده"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تقديم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مفيش"
+        }
+      ],
+      "uuid": "5a0bd34e-e7c4-46f9-a653-b33437865c62"
+    },
+    {
+      "start_time": 26880,
+      "end_time": 26940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "شغل"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "e4e41427-4420-4352-9818-55d6ae2031e4"
+    },
+    {
+      "start_time": 26940,
+      "end_time": 27000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت شغال ايه"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتفضل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شغل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ايه"
+        }
+      ],
+      "uuid": "bb1f4746-9a7d-409a-9440-e3307434745d"
+    },
+    {
+      "start_time": 26940,
+      "end_time": 26940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "في"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "a014d84b-acf6-41f0-ba21-ba2f4c7e59a5"
+    },
+    {
+      "start_time": 27000,
+      "end_time": 27780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "المدرسه انا في فصل وهو في فصل  المدرسين انا شايف صعبين شبه قرصه ودن جامد وكمان  الكتابه"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "المدرسه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هناك"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "المدرسين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو حاحه وانا حاجه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بتاع"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشوف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صعب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ده"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ذه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بظبط بظبط"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "قرصه اذن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جامد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مقفول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اوي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "نقطه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تاني نقطه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اكتب"
+        }
+      ],
+      "uuid": "61bffa46-e03a-48a8-a6f3-26fa08d2b912"
+    },
+    {
+      "start_time": 28140,
+      "end_time": 28380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "المدرسين مين ولد لا بنت "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "المدرسين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "راجل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا بنت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جامد"
+        }
+      ],
+      "uuid": "a5f4334a-985e-4cd8-834e-f852e70eff54"
+    },
+    {
+      "start_time": 28500,
+      "end_time": 29100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "دايما المدرسين يعاقبه المجموعه بتاعتي مش عشان احنا مخنا ناشف لا عشان نفهم (نتعلم)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عقاب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مجموعه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بسبب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مخ"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ناشف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فكره"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خلاص"
+        }
+      ],
+      "uuid": "2f56e948-f8fa-4758-8a85-4a245a282a80"
+    },
+    {
+      "start_time": 29100,
+      "end_time": 29640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "كنا في الامتحانات كنا بنجح مش كدا وكدا لا وكمان بنقول الشفاف مظبوط"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الامتحان"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ناجح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "زاي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كده و كده"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اكتب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كمان"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شفايف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مظبوط"
+        }
+      ],
+      "uuid": "67c006f6-a058-49b4-a43b-1b37d873681b"
+    },
+    {
+      "start_time": 29340,
+      "end_time": 30180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هو مجموعته شاطره وبيعرفه يحركه الشفايف اما مجموعتي لا فاشلين وكمان في ناس جم جديد وبقيني نخاف الله يرحمه الراجل الاسمر بخاف منه "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بتاع"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كتابه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خبره"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مجموع"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فاشل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٨"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جديد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تعليم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مخ وقف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عقاب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "توتر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فكر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاسمر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الله يرحمه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جدي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "موجود"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جامد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        }
+      ],
+      "uuid": "2ce9c3f0-0f86-4816-aa6f-b3b2b3737387"
+    },
+    {
+      "start_time": 30300,
+      "end_time": 30660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "كان المجموعه دايما مع بعض كل سنه "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خلاص"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مجموع"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ظبط"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شبه بعض"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كل سنه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هوهو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كبرنا"
+        }
+      ],
+      "uuid": "40d1f51d-4a90-45fc-95b2-c6dbdf173398"
+    },
+    {
+      "start_time": 30900,
+      "end_time": 31380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اول ما تخراجت اكتشفت اني فاهم (اتعلمت ) الشكر ليه هما "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سنه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سنتين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خلصنا او اتخرجنا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "روح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فاهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "افضل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شكرا"
+        }
+      ],
+      "uuid": "b963d4d7-ae12-4fa8-92d8-16481a9cdf17"
+    },
+    {
+      "start_time": 32220,
+      "end_time": 32400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ايه سبب العقاب"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عقاب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هدف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سبب"
+        }
+      ],
+      "uuid": "e8dec70a-2c68-4104-8ce8-3340dca3838a"
+    },
+    {
+      "start_time": 32400,
+      "end_time": 32760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "بس بعد السنة السابعة انا اتحطيت معاه هو في الفصل المظبوط"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "قول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اخر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٧"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سنة ٧"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ده"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "أنا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مع"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرسة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جامد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتحط"
+        }
+      ],
+      "uuid": "201c2a80-ed35-4ce7-8758-295f64ca94d5"
+    },
+    {
+      "start_time": 32940,
+      "end_time": 33000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "مع بعض"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "db97da41-518c-49c6-907b-77e123f03def"
+    },
+    {
+      "start_time": 33240,
+      "end_time": 33840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا اه فعلا خايف كلنا اه مش بنعرف نقرا وكمان خايفين كنت دايما بحاول انه يساعدني في الامتحانات عشان انجح "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خايف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كلنا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "آمى"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "احاول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "يساعد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كنابه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الامتحانات"
+        }
+      ],
+      "uuid": "28415f9c-679d-46e2-a26d-e834ce07314a"
+    },
+    {
+      "start_time": 34320,
+      "end_time": 34680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "لما غلطت كانت بتضرب ايدي ١٠ مرات كنوع من العقاب"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الخطآ"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بضرب بمعني انه بيضرب علي ايده"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بضرب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "١٠"
+        }
+      ],
+      "uuid": "ed347b6f-b518-4b2c-b28a-7ec9ede48c16"
+    },
+    {
+      "start_time": 34860,
+      "end_time": 35100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "المدسه دي مفيش احسن منها في العالم اللي هي دي طبعها"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "المدرسه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "القانون"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صعب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كل او العالم او حولين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا او مفيش"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو بس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "طبع"
+        }
+      ],
+      "uuid": "809d0efa-632b-4c54-b26a-b57b04e1d750"
+    },
+    {
+      "start_time": 36600,
+      "end_time": 36780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت اشاره بتاعتك"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشاره"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بتاعتك او الخاص بيك"
+        }
+      ],
+      "uuid": "e9f8f2cf-18d4-417e-9240-453d90d62d3b"
+    },
+    {
+      "start_time": 36900,
+      "end_time": 37500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "الاشارة بتاعتك هي هي او شبة الاشارة العائلة هي نفس الاشارة المجتمع مثلا في شغل الاشاره الجمعية كله نفس الاشارة "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بيقول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشاره"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بتاعتك"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "العائلهّ"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "نفس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "زاي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مجتمع"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ولا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الشغل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "او"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الجمعية"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مختلف"
+        }
+      ],
+      "uuid": "067af497-f77a-42d6-9b26-147d74a15ffa"
+    },
+    {
+      "start_time": 37500,
+      "end_time": 37620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "لا مثلا الاشارة انا مع العائلة نفس هي نفس الاشارة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مثلا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "العائلة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "زاي بعض"
+        }
+      ],
+      "uuid": "2e322b0d-8563-4bb9-b7c0-721853159590"
+    },
+    {
+      "start_time": 37740,
+      "end_time": 38460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا وعائلتي متفاهمين بطيبة علي الهادي اه بنفهم بعض في صم تانبه اشاره غريبه ومش بيتفهم "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هما"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "العائلة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تفاهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "طيبة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عائلة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ظيبة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "حوار"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هادي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشادة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بنفهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خفيف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الصم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جمعية"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تانبه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "غريب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مختلف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بظبط"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "نفس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فهمت"
+        }
+      ],
+      "uuid": "2f113107-5c00-42d5-ac81-0f8764aebb43"
+    },
+    {
+      "start_time": 37860,
+      "end_time": 38040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت وعائلتك بتفهمه بعض عادي خفيف"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "العائلة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بتاعتك"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عادي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خفيف"
+        }
+      ],
+      "uuid": "361327d2-69c8-4b24-a173-b8374ad7702a"
+    },
+    {
+      "start_time": 39180,
+      "end_time": 39900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا الاول كنت اشارة ثقيل دلوقتي لما جيت الجمعية واتمرنت علي الاشارة بيقت جامد في الاشارة بشكرا الجمعية"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "زمان"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ثقيل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرسة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دلوقتي او انهاردا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جمعية"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تمرين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "حفظ"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جامد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شكرا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الجمعية"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شكرآ"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "المنشية"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شكر"
+        }
+      ],
+      "uuid": "3a9f7b6b-a174-4866-bdda-79216be245c1"
+    },
+    {
+      "start_time": 40260,
+      "end_time": 41160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "الاشارة العائلة شبه بعض بس البنت جوها مختلف شويا في الاشارة سبب انا السيد جوة في شحصين الاشارة دي انا عارفها ام التاني محتلفين"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "العائلة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "زاي بعض"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "البنت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جوه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مختلف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سنه او شويا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سبب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جوة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاسم \\ السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اثنين شخصين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عارف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الثاني"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مختلفين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بنت"
+        }
+      ],
+      "uuid": "1299347e-3e7b-425c-a7e1-449d9c3f6981"
+    },
+    {
+      "start_time": 41220,
+      "end_time": 41520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "السبب هي في مدرسة الحضرة وانا في مدرسة جناكليس "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سبب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ايه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرسة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الحضرة اسم منطقة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جناكليس"
+        }
+      ],
+      "uuid": "5b05bf6c-7210-4408-a40d-d34383253a5d"
+    },
+    {
+      "start_time": 41940,
+      "end_time": 42180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا من جوة عارف الاثنين بمعني الاشاره عندي خبرة انا فاهم كدة وكدة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جوة داخل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عارف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاثنين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خبرة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فاهم ممكن اقول احفظ"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كدة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "وكدة"
+        }
+      ],
+      "uuid": "111a9452-7735-4433-8115-aa22c82f7032"
+    },
+    {
+      "start_time": 42660,
+      "end_time": 43140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "العائلة انا اعلمهم لا هما بيشوفنا بنكلم وهما بيتعلمه لان الله يوحي لهم "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تمام"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "العائلة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ابناء"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "داعي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتوماتك او يتصرف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سيب يترق"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "copy ينسخ او"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فاهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سبب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الله"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "وحي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فتح"
+        }
+      ],
+      "uuid": "e4463b88-5ce9-4f42-8727-7babce60d1a3"
+    },
+    {
+      "start_time": 44220,
+      "end_time": 44700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا علمت مفيش هما بيص علينا ويقول ايه ايه واقوله وايه وكمان ربنا يوحي يتعلم بسرعة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هشوف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تعلم الاشارتين نفس الحاجه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شرح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شرح او تعلم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لوحده"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ينظر او يبص"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ايه ايه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "يسكت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سبب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ربنا او الله"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "يوحي او ينزل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الله"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "افتح"
+        }
+      ],
+      "uuid": "eaadbc4d-06cd-48c7-8ed1-b958a8efd33e"
+    },
+    {
+      "start_time": 44700,
+      "end_time": 45000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "الله يامر العقل انه يبقي متفتح ليتعلم الاشاره حتي انا لو بتكلم حاجه والصم حاجه"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سبب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الصم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صعب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ربنا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "امر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "افتح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جوه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بتكلم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "حاجه او حال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خفيف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاثنين"
+        }
+      ],
+      "uuid": "43b88619-53e6-4e46-8995-a347f2ed5eb1"
+    },
+    {
+      "start_time": 45060,
+      "end_time": 45300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هل انت بتفهم اشارات من محافظات المختلة ولالا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاماكن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "االمحافظات"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "المختلفة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فاهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ولا لا"
+        }
+      ],
+      "uuid": "08c76504-b4ac-4e39-858f-2b99cffe4366"
+    },
+    {
+      "start_time": 45300,
+      "end_time": 45840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "مصر انا بفهم الاشارة بتاعتهم بس هما معندهمش ادب مخ مفيش شبه التوبة بس الاشارة بتاعتهم شبه بعض"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مصر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فاهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هما"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "آدب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مفيش"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مخ او عقل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فاشل او خاسر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مخ"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "توبه او صخرة صغيرة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الرجل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شبه بعض او متشابة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "متشابة"
+        }
+      ],
+      "uuid": "e2ea8188-fe07-4528-95c6-feec33052846"
+    },
+    {
+      "start_time": 45840,
+      "end_time": 46020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اشارة بورسعيد مختلفة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شوفت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بورسعيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شبه او زاي بعض"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مختلفة"
+        }
+      ],
+      "uuid": "1416cf7e-2925-4435-bb5c-c469a436eff6"
+    },
+    {
+      "start_time": 46140,
+      "end_time": 46260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "الاشارة كويسة اللي ١٠ علي ١٠ هنا في الاسكندرية"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فاهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "١٠ علي ١٠"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هنا الاسكندرية"
+        }
+      ],
+      "uuid": "aadc31f0-6ca2-47d1-bf04-0b8331d792d9"
+    },
+    {
+      "start_time": 46680,
+      "end_time": 3600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "مخ خفيف هنا بس حولنا ثقيل"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مخ"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فوق"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هنا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "حولنا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ثقيل"
+        }
+      ],
+      "uuid": "a877cb66-e219-4526-af63-70afcecfc067"
+    },
+    {
+      "start_time": 3660,
+      "end_time": 3720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "حولنا ثقيل"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "حولنا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ثقيل"
+        }
+      ],
+      "uuid": "c8202ac9-3ee8-43d0-b73e-2d1715e7a6e5"
+    },
+    {
+      "start_time": 4200,
+      "end_time": 4440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "المحافظات المختلفة بتفهم  الاشارة بتاعتهم ولا بتبقي مختلفة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "المحافظات"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "المختلفة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عارف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارات"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بتفهم بعض"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بتفهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ولا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مختلف"
+        }
+      ],
+      "uuid": "dc1c0aad-d8f8-40f6-9003-365f4dc44c01"
+    },
+    {
+      "start_time": 4380,
+      "end_time": 5040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "لالا مثلا الاسم الفلاح او الصعيدي هما اشارة ثقيل الاثنين خليهم علي جنب ام مصر الاشارة شبه بعض"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لالالا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مثلا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاسم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فلاح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صعيدي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "علي جنب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ثقيل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مصر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "نفس او شبة بعض"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاثنين زاي ما هما كله كلمه واحدة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مختلف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        }
+      ],
+      "uuid": "aa057dab-61ee-4da0-8b1b-a616138e346d"
+    },
+    {
+      "start_time": 5520,
+      "end_time": 5880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "مصر احنا شبة بعض بس في حاجات مختلفه بسيطة شبة بنت و بنت"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مصر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شبة بعض"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هما"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هنا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بنت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بتاعتهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فاهم"
+        }
+      ],
+      "uuid": "38c9edb3-8475-4f1f-ae3f-ff8885d12fe7"
+    },
+    {
+      "start_time": 6180,
+      "end_time": 6600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اه نفس كل حاجه بس اكيد الاشارة ثقيله"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مش عارف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "نفس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لازم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الفلاح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ثقيل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لوحدة"
+        }
+      ],
+      "uuid": "0dda00ee-799b-4a85-8182-cd9fea3b52a2"
+    },
+    {
+      "start_time": 7680,
+      "end_time": 8100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ممكن تقولي مثال الاختلاف بين الفلاحين والصعيد"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "قول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الصعيدة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "و"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الفلاح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مختلف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مثلا او مثال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اديني او السبب"
+        }
+      ],
+      "uuid": "7c875ad6-1c8c-4021-8e57-07ebee45780b"
+    },
+    {
+      "start_time": 8100,
+      "end_time": 8160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "فلاح او صعيدي"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الفلاح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الصعيد"
+        }
+      ],
+      "uuid": "30dcefc2-0c93-4247-9416-6f05b86e5d08"
+    },
+    {
+      "start_time": 8220,
+      "end_time": 9420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "الصعيدي اشارة ازاي لما اساله هو يفول ليه بتسال  انا بفكر عادي اسال شبه عادي لا مختلفين لازم افهمه الاول ليه وبعد كده نمطلق في الكلام الصعيدي بعد كده هيفهمك "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الصعيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ثقيل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ايه او نوعها"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سوال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ليه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مش فاهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مخ قصدة يعتقد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "نفس بعض"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سوال او بتسال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بقوله"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "زاي او بعض"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ايه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هقولك"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "استني"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بداية"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ينطلق بمعني يبداء الكلام"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الفلاح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الصعيدي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فهم فهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اسال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مره واحده او علي طول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "استني او اصبر"
+        }
+      ],
+      "uuid": "7a1de724-9c91-4c74-a987-4e76be2c41fb"
+    },
+    {
+      "start_time": 8280,
+      "end_time": 8340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اشاره ايه مختلفه"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ايه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مختلف"
+        }
+      ],
+      "uuid": "6c8c37dd-9241-47a7-965d-386a646294ef"
+    },
+    {
+      "start_time": 11460,
+      "end_time": 11940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "بس الصعيدي مخ ناشف احنا سهل مفيش"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الصعيدي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مخ"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ناشف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "احنا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سهل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مفيش"
+        }
+      ],
+      "uuid": "72c10349-be4e-42a0-ad5b-a6b2eb8ce4e4"
+    },
+    {
+      "start_time": 12840,
+      "end_time": 13380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ده الصم عارفه الصعيدي شوفه يستغربه وميعرفوش ايه  ده لحد ما اطورة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ده"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الصم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فاهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الصعيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كله"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صدمه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "يطور"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "وينتشر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عارف"
+        }
+      ],
+      "uuid": "15d9f06a-562f-4d9f-b275-294f63baf7dc"
+    },
+    {
+      "start_time": 14520,
+      "end_time": 15000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هل انت بتفهم  الاشارة الدوله العربية مثل السعوديه وقطر ولا اشارتهم مختلفة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مصر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "علي جنب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "العرب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "السعودية"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "قطر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بتفهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ولا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مختلف"
+        }
+      ],
+      "uuid": "248b65de-d64c-4a90-876b-04ffd75be5a7"
+    },
+    {
+      "start_time": 14940,
+      "end_time": 16200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا بفهم العرب بس اروبا شويا شويا امريكا ام العرب افهم بس دة يفهم اشارة اروبا "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كلهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فاهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اروبا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "نصف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ربع"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كويس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "امريكا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "غريب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "العرب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شويا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خبرة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عارفين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بيفهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "موجودين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مخ"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مش فاهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "يفهم"
+        }
+      ],
+      "uuid": "3bcce052-69ff-4297-8ecf-ff06d13c62b4"
+    },
+    {
+      "start_time": 15240,
+      "end_time": 15420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "كله العرب فاهم"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "العرب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كله"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فاهم"
+        }
+      ],
+      "uuid": "f067218e-15ce-4216-a8b6-0591520d3081"
+    },
+    {
+      "start_time": 15840,
+      "end_time": 15960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "العربي ولا اروبا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "العرب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ولا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اروبا"
+        }
+      ],
+      "uuid": "6b539232-d59f-4702-829d-b8a90043a3d4"
+    },
+    {
+      "start_time": 16740,
+      "end_time": 17520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "حركة الحروف انا مش بعرفها بس دة شايفة جامد او كويس في الاشارة بسبب الكليه تعلم الاشارة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "قصدة الحروف الهجاء"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مش فاهم او معرفش"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مش فاهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شايف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كويس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سبب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كلية"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تعلم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتعود"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اول"
+        }
+      ],
+      "uuid": "650c192d-10ea-48d6-9e59-e4aeaee55c93"
+    },
+    {
+      "start_time": 17580,
+      "end_time": 17820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هو يجي جنبي انا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "يجي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سوال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جنبي"
+        }
+      ],
+      "uuid": "47ea67ef-276a-44eb-a053-d9450f562038"
+    },
+    {
+      "start_time": 18180,
+      "end_time": 18240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "فاهم العرب ولا لا "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "العرب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فاهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ولا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        }
+      ],
+      "uuid": "17ed2149-e95a-47be-a574-0985fe6a18dd"
+    },
+    {
+      "start_time": 18240,
+      "end_time": 18720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "الوطن العربي ال ٦ سهل الاشارة شية يعض يس الاروبا مش كله اعرف حته حته"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "العرب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ال٦ قصدة الوطن العربي ال٦"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سهل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شبة بعض"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشارة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اروبا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شويا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كله"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اخد حته حته"
+        }
+      ],
+      "uuid": "974e4f70-b4d3-4baa-8eec-a229affb1ff2"
+    },
+    {
+      "start_time": 18960,
+      "end_time": 19380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "خلاص لو في حاجه انا مش فاهمه او حاجه يسيطة بتصل بصحبي وهو يقولي معناها "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خلاص"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "واحد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "باقي او فاضل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اثنين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "باقي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "قديم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فيديو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "احكي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "يعني ايه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فهمت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "استني"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "يحكي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شكرا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شويا"
+        }
+      ],
+      "uuid": "f36c61b0-c9d1-4701-8fee-181575a82e55"
+    },
+    {
+      "start_time": 19740,
+      "end_time": 19920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "سوال بسيط هو من امريكا صح"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سوال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صغير"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "امريكي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صح"
+        }
+      ],
+      "uuid": "295ac9a2-eafc-4552-984e-89f5c97f3932"
+    },
+    {
+      "start_time": 19860,
+      "end_time": 19920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اه من امريكا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "امريكي"
+        }
+      ],
+      "uuid": "0478b519-e9b2-4f94-a9e0-123b12801ad1"
+    },
+    {
+      "start_time": 20100,
+      "end_time": 20340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اول ما وصلت مصر هل كنت بتفهم الاشاره المصرية"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "وصل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الامريكي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كلام"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشارة"
+        }
+      ],
+      "uuid": "1c098c96-d1ff-4e3e-abd4-7a58b468fe03"
+    },
+    {
+      "start_time": 20220,
+      "end_time": 20280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اه امريكا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "امريكي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هنا"
+        }
+      ],
+      "uuid": "eefa695e-ab23-432e-b33d-b9d93f4c7ef3"
+    },
+    {
+      "start_time": 20880,
+      "end_time": 21120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "وحدة وحدة ايوا نصف امريكا ناس تفهم ونصف اشارة غريبة مش بتغهم"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "وحدة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فاهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "امريكا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "نصف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بيفهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "غريبة اشارة غريبة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مش فاهم"
+        }
+      ],
+      "uuid": "ffa4a27a-5a81-4e02-b9c7-3190f0424a27"
+    },
+    {
+      "start_time": 20880,
+      "end_time": 20940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "وحدة حته حته"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "وحدة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "حته حته"
+        }
+      ],
+      "uuid": "40fcf621-eea8-4a9b-9661-0f628c27f33b"
+    },
+    {
+      "start_time": 23280,
+      "end_time": 23640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اول حاجه انت مضايق او مليت من الاساله مبسوط "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "وصل"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مضايق او مليت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "في حاجه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مبسوط"
+        }
+      ],
+      "uuid": "eee36871-2f78-40f3-8a09-c34d1967606d"
+    },
+    {
+      "start_time": 23880,
+      "end_time": 24240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اول حاجه انتو مضايقين او مليت من الاساله مبسوط "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فاهم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دلوقتي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بيقول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انتو الاثنين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مضايقين او مليته"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ولا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "حاجه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مبسوطين"
+        }
+      ],
+      "uuid": "02842a4d-89bb-4c7a-85ad-ff4d279d44a4"
+    },
+    {
+      "start_time": 24120,
+      "end_time": 24480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "لا ميسوطين وكمان فرحان انت شخص مخ حلو ،منظم ما شاء الله عليك"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مبسوطين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سبب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فرحان"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ما شاء الله"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مخ"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "منظم"
+        }
+      ],
+      "uuid": "c1bca6c1-bf55-4da0-988f-954862689653"
+    },
+    {
+      "start_time": 24780,
+      "end_time": 25020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا باقي عايز احكي عن مصر في حاجه غلط"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "باقي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "في"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مصر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "غلط"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "احكي او اقول"
+        }
+      ],
+      "uuid": "bef57574-0394-4fa3-a280-91b8d1bc7260"
+    },
+    {
+      "start_time": 25320,
+      "end_time": 25620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هو الاول يقول هو عاير ايه وشروط ايه بعد كده يسال "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "قولي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شروط"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تمام"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خلاص"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سوال"
+        }
+      ],
+      "uuid": "a0f39fc7-5ec5-4793-aacd-9b39c18829a7"
+    },
+    {
+      "start_time": 25860,
+      "end_time": 26040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "سوال هل انتو الاثنين دخلته الكلية ولالا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سوال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاثنين"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كليه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "روح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "في"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ولالا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الكليه"
+        }
+      ],
+      "uuid": "1acd323f-0cdb-4684-b0d1-1d94212aa7ed"
+    },
+    {
+      "start_time": 26040,
+      "end_time": 26460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ثانوي 3 بس وبعد اتخرجت وبعد كدة في كليه بس خلاص احنا اتحرجنا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "3 ثانوي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتخرجت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بعد كدة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سمع"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "نجح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خلاص"
+        }
+      ],
+      "uuid": "275662e9-5ddd-42c1-8c35-d5f793095321"
+    },
+    {
+      "start_time": 26040,
+      "end_time": 26580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "لا ثانوي3 شبه بعض في كلية بس في مصر هناك "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شبه بعض"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كلية"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "في"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مصر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هناك"
+        }
+      ],
+      "uuid": "66bb51b5-c722-4238-86ed-7c60d32c0577"
+    },
+    {
+      "start_time": 26100,
+      "end_time": 26160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ثانوي ٣ ولا اعدادي ٣"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "3ثانوي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "3 اعدادي"
+        }
+      ],
+      "uuid": "f22d9315-3a44-429e-a29f-c070b75c47bd"
+    },
+    {
+      "start_time": 26580,
+      "end_time": 26820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "قالولي في مصر انا قولت ايه لا بعيدة لا احسن دبلومه وخلاص"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هناك"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "قال لي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ايه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مصر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لالاا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "حلاص"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دبلومه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خلاص"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اتخرجت"
+        }
+      ],
+      "uuid": "5501252a-7b50-4f3a-8319-a55e6cfb31ed"
+    },
+    {
+      "start_time": 27720,
+      "end_time": 28620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هل بتفكر اني مش راضي اكمل لا انا سالت صحبي اوي سالته عن شروط الكليه لاقيت الفلوس غاليه هو صحبي قالي الدبلومه حلوة "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مش موافق يعني"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سبب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مخترع او يآلف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مصر"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اعرفه اوي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هناك"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كلية"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "في"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الصم"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سوال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بقوله"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شروط"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بيقول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فلوس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كذا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شايف انه غالي ده تعبير الوجه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خلاص"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "قال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ليا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مساعده"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بلاش"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "حلو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دبلوبه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كوبسة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دبلومة"
+        }
+      ],
+      "uuid": "9fabe75e-5d00-46c9-91de-8f3474261c8a"
+    },
+    {
+      "start_time": 29940,
+      "end_time": 30120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "باقي 3 موافين ولا داقضين"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "باقي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "3"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "موافق"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "رافض"
+        }
+      ],
+      "uuid": "18baa2d7-c619-4907-8d0c-02d077b29165"
+    },
+    {
+      "start_time": 30240,
+      "end_time": 30360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "دلوقتي انت شغال ايه "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دلوقتي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شغال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ايه"
+        }
+      ],
+      "uuid": "b614ff71-7bee-4ae5-a3d5-3d76a8a199a9"
+    },
+    {
+      "start_time": 30360,
+      "end_time": 30720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا كنت شغال الاول مدرس من ٢٠٠٦ بقالي قيها ١٠ ستوات"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شغال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "زمان"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سنة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٢٠٠٦"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بقالي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "١٠ سنوات"
+        }
+      ],
+      "uuid": "f57730a2-7006-4e43-8402-0262dd065bcc"
+    },
+    {
+      "start_time": 30720,
+      "end_time": 30900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "كان ياخد معاش بتاع ابوه"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "١٠ سنوات"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ابويا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الله يرحمه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "معاش"
+        }
+      ],
+      "uuid": "d887af17-5a4d-41b5-8e12-63dacaeba9ed"
+    },
+    {
+      "start_time": 31080,
+      "end_time": 31380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "قانون الاول غلط ممنوع اخد فلوس من الاثنين المعاش بتاع ولدي وفلوس الشغل مدرس"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "قانون"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "غلط"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "١"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "٢"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ممنوع"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فلوس"
+        }
+      ],
+      "uuid": "ce001d01-f913-48e1-849a-9c955eb9e314"
+    },
+    {
+      "start_time": 31320,
+      "end_time": 31620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "عندك اطفال لا ربنا يرزقك وباذن الله خير"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اطفال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عندك"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مفيش"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "رلنا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "يرزقك"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ربنا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الخير"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "جي"
+        }
+      ],
+      "uuid": "f9abd3c4-1d42-4566-aad7-e95df63d5d2a"
+    },
+    {
+      "start_time": 31560,
+      "end_time": 31800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "دلوفتي مغتوح بس الاول قانون ثقيل مقفول"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عرفت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دلوقتي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مفتوح"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "السيسي رايس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "قانون"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "فرض"
+        }
+      ],
+      "uuid": "3ab936aa-bd28-4933-b0db-887e72e23311"
+    },
+    {
+      "start_time": 31680,
+      "end_time": 31740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "الاول قانون ثقيل"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الاول"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "قانون"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ثقيل"
+        }
+      ],
+      "uuid": "76b347ce-70dc-4184-b489-2b3cdb459842"
+    },
+    {
+      "start_time": 32100,
+      "end_time": 32220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "دلوفتي انت شغال مدرس"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دلوقتي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شغال"
+        }
+      ],
+      "uuid": "a4a32f79-1c01-487e-82e7-f0df383ed290"
+    },
+    {
+      "start_time": 32160,
+      "end_time": 32280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "دلوقتي استقالة من المدرسة بس باخد المعاش"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دلوقتي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرس"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "خلاص"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "استقالة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "معاش"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بس"
+        }
+      ],
+      "uuid": "a4dd1b9b-e505-46d9-bd33-fc99db66cabd"
+    },
+    {
+      "start_time": 32760,
+      "end_time": 32820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "عالي"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "نسبة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مدرس"
+        }
+      ],
+      "uuid": "4fc5c0c0-191c-447c-a398-0805e5fed821"
+    },
+    {
+      "start_time": 33420,
+      "end_time": 33600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت شغال ايه دلوفتي"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "غفران"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انت"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شغال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "دلوقتي"
+        }
+      ],
+      "uuid": "eccdf527-aae9-4df6-a9ee-4d6af38e840c"
+    },
+    {
+      "start_time": 33540,
+      "end_time": 33660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "شغال نجار"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "شغال"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "نجار"
+        }
+      ],
+      "uuid": "57d17f9c-9490-4910-bcc5-0b1daeeb5207"
+    },
+    {
+      "start_time": 33780,
+      "end_time": 34380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "شغال نجار بس سهل مش صعب شبه السرير مطبخ شباك البلكونة السقف كامل"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "نجار"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "زاي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صعب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "عادي"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سرير"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مطبخ"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "بلكونة"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الشباك"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "السقف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كامل"
+        }
+      ],
+      "uuid": "590e4c64-ef43-4839-9c0f-b76330f1f71d"
+    },
+    {
+      "start_time": 34680,
+      "end_time": 35280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت مفكر اني عشان انا اصم فصعب لا في ممكن نفهم بعض من الكنابة او يجيب صورة من التلفون واتا اعمله"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كلام"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "صعب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "لا"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كتابه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "واحد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ثاني"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "تلفون"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "هو"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اعطني"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "scroll"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اشوف"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "okay"
+        }
+      ],
+      "uuid": "fb70aeeb-2e41-42a8-82e6-86084cd0254f"
+    },
+    {
+      "start_time": 36180,
+      "end_time": 36420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ليه السبب الكتابه عشان في انواع خشب لازم اعرف هو عايز انهي نوع دماغي ما توقفش"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "السيد"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "كتابه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "سبب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ايه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "الخشب"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "اسمه"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "انواع"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "مخ"
+        }
+      ],
+      "uuid": "f0ff04fc-0a37-4531-947a-ecb20c8c3390"
     }
   ],
   "set": "Default",
