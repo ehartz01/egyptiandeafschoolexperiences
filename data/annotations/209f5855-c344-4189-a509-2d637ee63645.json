@@ -4558,27 +4558,6 @@
       "uuid": "59ea64d9-49b6-4303-b5ba-172e3eea24f4"
     },
     {
-      "start_time": 0,
-      "end_time": 2,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "What's your name and what's your sign name?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Ghofran, NAME, POSS",
-          "tag": "2SG, WH, NAMESIGN"
-        }
-      ],
-      "uuid": "95b92de8-1cb7-4ed2-a542-607bba10dfe4"
-    },
-    {
       "start_time": 1,
       "end_time": 6,
       "annotation": [
