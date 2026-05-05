@@ -3,7 +3,7 @@
     "4c2726f0-4922-4598-8f06-242417d5ef99": {
       "label": "Al-Sayyed and Al-Hassan",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=7gnvskXcgPM",
       "duration": 0,
       "caption_set": [],
@@ -29,6 +29,6 @@
   "rights_statement": "https://creativecommons.org/licenses/by-nc/2.5/",
   "created_at": "2026-05-05T23:13:33.630Z",
   "created_by": "ehartz01",
-  "updated_at": "2026-05-05T23:14:21.166Z",
+  "updated_at": "2026-05-05T23:14:46.197Z",
   "updated_by": "ehartz01"
 }
