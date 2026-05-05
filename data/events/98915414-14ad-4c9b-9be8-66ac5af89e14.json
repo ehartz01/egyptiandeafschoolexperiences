@@ -6,7 +6,16 @@
       "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=7gnvskXcgPM",
       "duration": 0,
-      "caption_set": [],
+      "caption_set": [
+        {
+          "annotation_page_id": "6a9b10c0-6e5c-4554-8b15-7e6198acfec1",
+          "speaker_category": "Signer المؤشر"
+        },
+        {
+          "annotation_page_id": "6f566bfd-48e9-4f0f-833c-2302ce84ec3d",
+          "speaker_category": "Signer المؤشر"
+        }
+      ],
       "set_sort": []
     }
   },
@@ -29,6 +38,6 @@
   "rights_statement": "https://creativecommons.org/licenses/by-nc/2.5/",
   "created_at": "2026-05-05T23:13:33.630Z",
   "created_by": "ehartz01",
-  "updated_at": "2026-05-05T23:14:46.197Z",
+  "updated_at": "2026-05-05T23:33:34.192Z",
   "updated_by": "ehartz01"
 }
