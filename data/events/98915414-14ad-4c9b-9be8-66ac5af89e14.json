@@ -25,7 +25,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This interview took place at the Deaf Fraternal Society of Alexandria on August 1, 2024."
+          "text": "This interview took place in July 2024 in the Mansheyya neighborhood of Alexandria, inside the Deaf Fraternal Society of Alexandria."
         }
       ]
     },
@@ -33,12 +33,20 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The PhD Student, Ethan Hartzell, asks questions in Arabic from behind the camera, while the interpreter Ghofran Gamal (right) signs to the participants ("
+          "text": "The American PhD student Ethan Hartzell asks a list of questions to two participants: Al-Sayyed (seated left) and Al-Hassan (seated right). Ghofran Gamal (comes into view partway through on the right) interprets the interview."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     }
   ],
-  "citation": "",
+  "citation": "Ghofran Gamal, Ethan Hartzell, & Ibrahim Ayman. Interview with Al-Sayyed and Al-Hassan. August 2024. The Deaf Fraternal Society of Alexandria.",
   "label": "School Experiences: Al-Sayyed and Al-Hassan of Alexandria تجارب مدرسية في الاسكندرية : السيد والحسن",
   "av_file_order": [
     "4c2726f0-4922-4598-8f06-242417d5ef99"
@@ -46,6 +54,6 @@
   "rights_statement": "https://creativecommons.org/licenses/by-nc/2.5/",
   "created_at": "2026-05-05T23:13:33.630Z",
   "created_by": "ehartz01",
-  "updated_at": "2026-05-05T23:37:30.142Z",
+  "updated_at": "2026-05-05T23:38:47.350Z",
   "updated_by": "ehartz01"
 }
