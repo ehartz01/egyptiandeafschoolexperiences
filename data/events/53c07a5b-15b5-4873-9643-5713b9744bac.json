@@ -1,0 +1,60 @@
+{
+  "audiovisual_files": {
+    "da9cac8f-2350-4fc2-b947-add60d95a333": {
+      "label": "Eslam and Abdelaziz Part 1",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=b6FmCxZD7Hg",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "0f74d97a-bcaf-418e-a035-f6ba5dc534f1": {
+      "label": "Eslam and Abdelaziz Part 2",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=YHhkJ_CuyO0",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This interview took place in July 2024 in the Mansheyya neighborhood of Alexandria, inside the Deaf Fraternal Society of Alexandria."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The American PhD student Ethan Hartzell asks a list of questions to two participants: Eslam (seated left) and Abdelaziz (seated right). Ghofran Gamal (comes into view on the right in part 2) interprets the interview."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    }
+  ],
+  "citation": "Ghofran Gamal, Ethan Hartzell, & Ibrahim Ayman. Interview with Eslam and Abdelaziz. August 2024. The Deaf Fraternal Society of Alexandria.",
+  "label": "School Experiences: Eslam & Abdelaziz Part 1 تجارب مدرسية: اسلام وعبدالعزيز الجزء ١",
+  "av_file_order": [
+    "da9cac8f-2350-4fc2-b947-add60d95a333",
+    "0f74d97a-bcaf-418e-a035-f6ba5dc534f1"
+  ],
+  "rights_statement": "https://creativecommons.org/licenses/by-nc/2.5/",
+  "created_at": "2026-05-05T23:43:10.748Z",
+  "created_by": "ehartz01",
+  "updated_at": "2026-05-05T23:43:10.748Z",
+  "updated_by": "ehartz01"
+}
