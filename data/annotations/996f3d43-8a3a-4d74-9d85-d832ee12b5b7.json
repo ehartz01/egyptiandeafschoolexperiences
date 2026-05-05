@@ -1641,6 +1641,2967 @@
         }
       ],
       "uuid": "4dc81eab-5442-4468-8dfc-1c4a4da2ca73"
+    },
+    {
+      "start_time": 43200,
+      "end_time": 43320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اسمك ايه واشارتك ايه (الحسن)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "6bb71e33-b258-4794-a60d-c0ec0a99417d"
+    },
+    {
+      "start_time": 43260,
+      "end_time": 43560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اشارتي (كده) واسمي الحسن "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "7b2a1b4e-dc56-4378-9724-71810aee0780"
+    },
+    {
+      "start_time": 43740,
+      "end_time": 43920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "لالا اانت اتلغبط اسم الحسن"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "8626a126-c349-494c-a8ad-0fef766e5095"
+    },
+    {
+      "start_time": 44400,
+      "end_time": 45240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت اسمك ايه و اشارتك ايه"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "8df7ca34-6f5d-4ccc-aa83-211718d691bf"
+    },
+    {
+      "start_time": 44460,
+      "end_time": 45180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا السيد"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "898320ae-3ec7-4ef3-872e-845e0de800aa"
+    },
+    {
+      "start_time": 45240,
+      "end_time": 45300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اشارتي كدا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "6757164b-8f7d-4644-a452-1a90bcae7496"
+    },
+    {
+      "start_time": 45360,
+      "end_time": 45660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "سبب الاشاره دي سبب انا عندي ٣ اخوات فطلع اسمي السيد الاول "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "ed728cbc-a442-40e9-9d49-aa383e3a4a5c"
+    },
+    {
+      "start_time": 46560,
+      "end_time": 4020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت من الاول اتولد فين في الاسكندرية واتربيت فين في الشاطبي اكيد"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "5a984bd6-8af5-43cf-9ae1-95ea9ce9a1a7"
+    },
+    {
+      "start_time": 46740,
+      "end_time": 3660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اتولدت هنا في الاسكندرية"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "666fc0c1-be2b-4ce4-b8de-fa91928f8c12"
+    },
+    {
+      "start_time": 3720,
+      "end_time": 3840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "فين؟ عند الجامعة في الشاطبي هناك"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "b4e84522-99bd-477a-a2c8-dbf3ffd59fe4"
+    },
+    {
+      "start_time": 3840,
+      "end_time": 3960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "عارف عند القبة هناك"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "09525ce6-5651-40cb-be29-5d3a97a4900f"
+    },
+    {
+      "start_time": 3960,
+      "end_time": 4080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أيوا مولود هنا أصلا وكبرت هنا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "1d37237d-0a70-46fd-bdab-37ec74a4a5e3"
+    },
+    {
+      "start_time": 4080,
+      "end_time": 4320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "بس أمي وأبويا وأجدادي أصلا من  البحري"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "f0e4be3f-cf8a-4132-950f-9152f0cbc179"
+    },
+    {
+      "start_time": 4320,
+      "end_time": 4560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "عارف أنا منين؟ من الفلاحين انا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "62aa843b-1c8e-461d-9d59-e4e0934d4811"
+    },
+    {
+      "start_time": 4500,
+      "end_time": 4980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اتولد فين الاساسي القبازي في الاسكندرية"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "2e3cd182-0e9f-4dbf-8111-e9ccaf7282a2"
+    },
+    {
+      "start_time": 4620,
+      "end_time": 4920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنا اتولدت هناك في القباري بالظبط"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "eba97f1f-6bca-4549-959d-0ae2a1a24007"
+    },
+    {
+      "start_time": 4920,
+      "end_time": 5220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أيوا كبرت وانا هناك على طول."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "6fca507e-afe4-4c49-98f9-703d1be383e3"
+    },
+    {
+      "start_time": 5760,
+      "end_time": 6180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت عندك كام سنة ٥١ طب اتولد في عام ١٩٠٠ وكام"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "6a192957-1e27-47b3-9d1e-b018dc91cf14"
+    },
+    {
+      "start_time": 5880,
+      "end_time": 6600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنا عندي ٥١ سنة. اتولدت في سنة ١٩٧٣ خلال الحرب أيام أنور السادات"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "3f313991-11d1-4e4b-9576-d121eb596b62"
+    },
+    {
+      "start_time": 7080,
+      "end_time": 7380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت مولود سنة كام وعندك كام سنة؟"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "51f347c1-8c9c-4fe9-a36a-e321dd21bd01"
+    },
+    {
+      "start_time": 7140,
+      "end_time": 7500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنا مولود في سنة ٧٦ وعندي ٤٨ سنة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "17dbb637-66f1-4cac-8176-c3f2464eb932"
+    },
+    {
+      "start_time": 8100,
+      "end_time": 8340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هل انت اتولدت أصم في الأصل؟ "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "3cfdda47-8226-4ab7-b14c-97537b919f65"
+    },
+    {
+      "start_time": 8220,
+      "end_time": 8340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اه اصلي صم "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "861cb4a2-ea47-473d-8017-dfe3136677df"
+    },
+    {
+      "start_time": 8400,
+      "end_time": 8640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت اتولدت اصم؟"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "758b9d01-3bd0-4083-9b93-97692e6fae5d"
+    },
+    {
+      "start_time": 8460,
+      "end_time": 8580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا اتولد من صغير اصم زاي ما انا صم "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "d46a2429-fe93-4eac-a69d-567881686a87"
+    },
+    {
+      "start_time": 9000,
+      "end_time": 9180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت عندك اخوات اصم او اقارب صم"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "322e47a9-4e2d-4d84-91d4-85d27bdf5ef0"
+    },
+    {
+      "start_time": 9120,
+      "end_time": 9420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "فيه أربع متكلمين في عائلتي. مفيش أي حد أصم غيري- أنا الوحيد"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "6503035f-79e9-4cd6-adbc-c9f0c7c8071f"
+    },
+    {
+      "start_time": 9600,
+      "end_time": 9600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "وأنت؟"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "b3e93d4c-0235-4023-9a96-ab20c2b64831"
+    },
+    {
+      "start_time": 9600,
+      "end_time": 10080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنا امي وأبويا ليهم صلة قرابة من بعيد. اتجوزوا وخلفو   ٢ صم."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "6d2430e8-8ce1-40a7-b0ba-e5974878fdae"
+    },
+    {
+      "start_time": 10140,
+      "end_time": 10380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "وكمان خلف ٣ متكلمين فمجموعهم ٦"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "524bc791-f380-4efd-b840-b3fb6455aeee"
+    },
+    {
+      "start_time": 10380,
+      "end_time": 10560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "واخواتك؟ اخواتك؟"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "ff174821-4537-46c2-9e8e-16cbd7f715da"
+    },
+    {
+      "start_time": 10500,
+      "end_time": 10680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "الاخوات كلهم ٦. ٣ صم و٣ متكلمين"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "0dff1e5e-eeaf-498c-a908-1de70668707f"
+    },
+    {
+      "start_time": 10800,
+      "end_time": 11040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ووالد والدتك-- هل هما من الصم ولا لا؟"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "f4ce1f64-7e39-40ad-a600-892b03f3487d"
+    },
+    {
+      "start_time": 11640,
+      "end_time": 12060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنت اول ما دخلت المدرسة كانت مدرسة الأمل للصم؟...هنا المنشية يعني؟"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "c0119a3e-3c9e-4e2a-ac84-c6c670e3b04f"
+    },
+    {
+      "start_time": 11820,
+      "end_time": 12240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا اصلي من الصم وضعاف السمع  واتعلمت هنا في الجعية المنشية بس اول ما سمعت او عرفت انها خلاص انتهت انتقلنا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "186062c2-3747-40d6-8258-4691f44b76cf"
+    },
+    {
+      "start_time": 12480,
+      "end_time": 15120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "بيفكر دة     بيتكلم انجليزي ما شا الله    انا مولد في القباري زي ما انا مدرستي صم اول مره اخشها لسه جديدة في جناكليس بعد مدة طويلة في ٣ ثانوي مريح بالي انا مجموعتي او فصلي فكرنا لا لازم نكمل لجامعة ونكمل فيها انا الاول انا والمجموعة مدرسة قالت لا علي موضوع الجامعة في القلاحين في جامعة اه في جامعة هناك بعد كده مصر صدرت امر ان يكون في جامعة فرحنا انا لما اتخرجت فتح الجامعة لحد دلوقتي"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "6ebcdab7-01b8-4f1f-a821-320532dc728f"
+    },
+    {
+      "start_time": 12900,
+      "end_time": 13080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت اتولد عربي باين سهل"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "e0b31ffe-2546-4503-bd39-b325b1bd65cf"
+    },
+    {
+      "start_time": 14940,
+      "end_time": 15360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "في الاول كنا انا وهو مع بعض بس قبل كدا لا وانا كنت جديد"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "ed6525e1-e7a5-47c7-9552-0323ab7e8ace"
+    },
+    {
+      "start_time": 15900,
+      "end_time": 16080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أيام الثانوي كل دا مكانش موجود, انا من اوائل اللي جم هنا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "665d42d7-18b1-44b2-9a6b-9f6d3f2a666b"
+    },
+    {
+      "start_time": 16020,
+      "end_time": 16200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا كنت معاه زاي بعض"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "be12ac42-e436-464f-b6f7-342ed6769ce6"
+    },
+    {
+      "start_time": 17100,
+      "end_time": 17460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هل انت شايف انك استفدت من المدرسة ولالا؟"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "1cc93598-6077-4af4-9f5b-43fa45c229c3"
+    },
+    {
+      "start_time": 17400,
+      "end_time": 18180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اكيد بنستفيد من المدرسة في المدرسين كويسين بس مش كلهم في وفي المدرسين الكوسين كان معاه هو اما انا لا مش حلوين كل واحد لوحدة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "1d4468df-d655-425a-9dec-71944f3b222a"
+    },
+    {
+      "start_time": 17760,
+      "end_time": 18600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "صح صح المدرسين بتاعي صعب كنت بخاف منهم المدرس سبب مش عايز دماغنا تقف اما المدرس بتاعه هو نصف نصف"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "310f4410-118f-4615-a352-115945154559"
+    },
+    {
+      "start_time": 19860,
+      "end_time": 20580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ثواني او لحظا دلوقتي في اشخاص من الصم مدرسين جديد مش بنتعلم حاجه واحنا مش بتعرف نقرآ ولا نكتب زاي ما احنا محدتش عنده خبره المهم ياخد فلوس وبس"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "bef67a02-5803-4384-b053-726c4ee4c304"
+    },
+    {
+      "start_time": 20640,
+      "end_time": 21240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "السبب ايه في ذنب القانون المظبوط هنا او سامي تعليم حلو اما مدرسه"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "4253131d-28da-4b2c-9553-610838cbf2e3"
+    },
+    {
+      "start_time": 21600,
+      "end_time": 21780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ايه الكاميرآ شغاله شغاله صح "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "359bc84a-d54e-4564-a4a8-983cf13aea99"
+    },
+    {
+      "start_time": 21840,
+      "end_time": 22200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "احنا بنقل اللي مكتوب علي الصابوره وبس من غير ما يسالوني"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "4b9a3445-3a1c-468a-855b-f21a907296d3"
+    },
+    {
+      "start_time": 21900,
+      "end_time": 22080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هو هيقصقص الفيديوهات دي صح هو قالي انه هقص الفيديوهات"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "1826ea23-2e89-4285-bc5b-434ba74de683"
+    },
+    {
+      "start_time": 22500,
+      "end_time": 22560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا مخي وقف"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "a3a07730-9c20-434b-aa81-2ca0c02fdee5"
+    },
+    {
+      "start_time": 22800,
+      "end_time": 23340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "لما استلمت الشهاده التقدير ورحت الشركه كويسه جدا بس هما رافضين "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "d16cf079-558b-404f-a448-7ea208f27a00"
+    },
+    {
+      "start_time": 23940,
+      "end_time": 24180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "طبع الصم انهم عندهم مهاره في الاقناع وكمان كويسين في العمل"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "4d7480ea-86ca-43d0-a846-9839db3a6a96"
+    },
+    {
+      "start_time": 24900,
+      "end_time": 25320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "سوال انا شغال الاول شيف في فندق"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "34e81fd0-bc5f-4087-8344-4ba3768f38ef"
+    },
+    {
+      "start_time": 25320,
+      "end_time": 25500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "شغال حلو بس كتابه شويا نصف نصف"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "c9bf6c33-ed38-4f62-9d3e-10b675cc883a"
+    },
+    {
+      "start_time": 25500,
+      "end_time": 25680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا بقدر اخلص الشغل بسرعة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "511ed6b3-c091-4b2a-b747-2b9bb7422e63"
+    },
+    {
+      "start_time": 26340,
+      "end_time": 26520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "مثلا في حد مفيش شهاده بس شغل ميه "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "da8d0bb3-152d-4d5c-a131-ffb0d0bc33d1"
+    },
+    {
+      "start_time": 26880,
+      "end_time": 26940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "شغل"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "d271933c-956b-4efd-b6c4-064b16c2b0e5"
+    },
+    {
+      "start_time": 26940,
+      "end_time": 27000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت شغال ايه"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "148ee73a-303d-4708-b776-76eb0840cb66"
+    },
+    {
+      "start_time": 26940,
+      "end_time": 26940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "في"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "a6406ce8-96dd-4fd7-b04a-181c2dc409dd"
+    },
+    {
+      "start_time": 27000,
+      "end_time": 27780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "المدرسه انا في فصل وهو في فصل  المدرسين انا شايف صعبين شبه قرصه ودن جامد وكمان  الكتابه"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "3ba95884-6a0e-4ab1-b5af-b0ff647654ca"
+    },
+    {
+      "start_time": 28140,
+      "end_time": 28380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "المدرسين مين ولد لا بنت "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "95ccb12f-33c0-4b08-bea0-8ea90e998d06"
+    },
+    {
+      "start_time": 28500,
+      "end_time": 29100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "دايما المدرسين يعاقبه المجموعه بتاعتي مش عشان احنا مخنا ناشف لا عشان نفهم (نتعلم)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "940a5ea1-3876-4756-85b4-2295772f53ef"
+    },
+    {
+      "start_time": 29100,
+      "end_time": 29640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "كنا في الامتحانات كنا بنجح مش كدا وكدا لا وكمان بنقول الشفاف مظبوط"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "f8588b5d-5dd0-4479-ac1f-71a3ac1692f8"
+    },
+    {
+      "start_time": 29340,
+      "end_time": 30180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هو مجموعته شاطره وبيعرفه يحركه الشفايف اما مجموعتي لا فاشلين وكمان في ناس جم جديد وبقيني نخاف الله يرحمه الراجل الاسمر بخاف منه "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "15bea3cf-1b7e-4fd1-955b-4ad5898055fa"
+    },
+    {
+      "start_time": 30300,
+      "end_time": 30660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "كان المجموعه دايما مع بعض كل سنه "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "8a36ccd6-4fd2-4b72-a770-3aa19bd50db8"
+    },
+    {
+      "start_time": 30900,
+      "end_time": 31380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اول ما تخراجت اكتشفت اني فاهم (اتعلمت ) الشكر ليه هما "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "f3a0f320-f79e-4f60-9065-64a5f2f4b74c"
+    },
+    {
+      "start_time": 32220,
+      "end_time": 32400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ايه سبب العقاب"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "ffe59e7f-2335-41ee-978e-32fc9cf8fe7d"
+    },
+    {
+      "start_time": 32400,
+      "end_time": 32760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "بس بعد السنة السابعة انا اتحطيت معاه هو في الفصل المظبوط"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "46bb4251-2471-47fb-aab1-a73eb2274762"
+    },
+    {
+      "start_time": 32940,
+      "end_time": 33000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "مع بعض"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "71d6bf29-d9d4-4c75-b302-23d8488f79c0"
+    },
+    {
+      "start_time": 33240,
+      "end_time": 33840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا اه فعلا خايف كلنا اه مش بنعرف نقرا وكمان خايفين كنت دايما بحاول انه يساعدني في الامتحانات عشان انجح "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "22751f16-6601-4d40-be87-b26ca6aa930a"
+    },
+    {
+      "start_time": 34320,
+      "end_time": 34680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "لما غلطت كانت بتضرب ايدي ١٠ مرات كنوع من العقاب"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "39cab610-8a9c-44a6-a4f9-332d5fc7da88"
+    },
+    {
+      "start_time": 34860,
+      "end_time": 35100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "المدسه دي مفيش احسن منها في العالم اللي هي دي طبعها"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "51ea40b8-1201-4dcc-8387-a3f8decc7a56"
+    },
+    {
+      "start_time": 36600,
+      "end_time": 36780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت اشاره بتاعتك"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "ac2acb81-5632-4e31-9e8c-2f258190037a"
+    },
+    {
+      "start_time": 36900,
+      "end_time": 37500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "الاشارة بتاعتك هي هي او شبة الاشارة العائلة هي نفس الاشارة المجتمع مثلا في شغل الاشاره الجمعية كله نفس الاشارة "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "b2fe4e06-472f-40ef-9eee-e7d0bf37f47c"
+    },
+    {
+      "start_time": 37500,
+      "end_time": 37620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "لا مثلا الاشارة انا مع العائلة نفس هي نفس الاشارة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "e02e8336-a4e3-4352-b383-092560f77a0f"
+    },
+    {
+      "start_time": 37740,
+      "end_time": 38460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا وعائلتي متفاهمين بطيبة علي الهادي اه بنفهم بعض في صم تانبه اشاره غريبه ومش بيتفهم "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "1a89d8dd-259e-4cf5-a7c4-a9e1bd1f5697"
+    },
+    {
+      "start_time": 37860,
+      "end_time": 38040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت وعائلتك بتفهمه بعض عادي خفيف"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "7a2a1c37-2932-4df7-bc9a-7e74b245250c"
+    },
+    {
+      "start_time": 39180,
+      "end_time": 39900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا الاول كنت اشارة ثقيل دلوقتي لما جيت الجمعية واتمرنت علي الاشارة بيقت جامد في الاشارة بشكرا الجمعية"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "2d49c437-a48c-49ba-880c-ea90436b8feb"
+    },
+    {
+      "start_time": 40260,
+      "end_time": 41160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "الاشارة العائلة شبه بعض بس البنت جوها مختلف شويا في الاشارة سبب انا السيد جوة في شحصين الاشارة دي انا عارفها ام التاني محتلفين"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "a980a05e-bea3-498c-b573-0eaddf9472fc"
+    },
+    {
+      "start_time": 41220,
+      "end_time": 41520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "السبب هي في مدرسة الحضرة وانا في مدرسة جناكليس "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "bf05bab1-8f61-45f7-839b-994a688f7024"
+    },
+    {
+      "start_time": 41940,
+      "end_time": 42180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا من جوة عارف الاثنين بمعني الاشاره عندي خبرة انا فاهم كدة وكدة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "2b72607c-032a-4c7a-a919-12b900e146b9"
+    },
+    {
+      "start_time": 42660,
+      "end_time": 43140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "العائلة انا اعلمهم لا هما بيشوفنا بنكلم وهما بيتعلمه لان الله يوحي لهم "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "8087df9d-20ec-4890-9281-b4da9ecaf0cb"
+    },
+    {
+      "start_time": 44220,
+      "end_time": 44700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا علمت مفيش هما بيص علينا ويقول ايه ايه واقوله وايه وكمان ربنا يوحي يتعلم بسرعة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "20b7d049-2d8b-453a-a9b2-574f193d45ad"
+    },
+    {
+      "start_time": 44700,
+      "end_time": 45000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "الله يامر العقل انه يبقي متفتح ليتعلم الاشاره حتي انا لو بتكلم حاجه والصم حاجه"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "ca4aa0d0-4c20-4fae-8362-b7758034867f"
+    },
+    {
+      "start_time": 45060,
+      "end_time": 45300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هل انت بتفهم اشارات من محافظات المختلة ولالا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "364fcb28-1166-4f8f-86e3-0b79bbd186d5"
+    },
+    {
+      "start_time": 45300,
+      "end_time": 45840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "مصر انا بفهم الاشارة بتاعتهم بس هما معندهمش ادب مخ مفيش شبه التوبة بس الاشارة بتاعتهم شبه بعض"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "3edac627-c444-45c1-8460-922172592b36"
+    },
+    {
+      "start_time": 45840,
+      "end_time": 46020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اشارة بورسعيد مختلفة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "965c8843-9a87-4ec2-89fc-e51e72810929"
+    },
+    {
+      "start_time": 46140,
+      "end_time": 46260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "الاشارة كويسة اللي ١٠ علي ١٠ هنا في الاسكندرية"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "4a639f6c-95e9-4906-8072-116e908fbad0"
+    },
+    {
+      "start_time": 46680,
+      "end_time": 3600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "مخ خفيف هنا بس حولنا ثقيل"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "e58a51a4-85d9-4d6d-abd9-7bf1785e2656"
+    },
+    {
+      "start_time": 3660,
+      "end_time": 3720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "حولنا ثقيل"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "05033ee0-e120-425b-9cb4-c520ac8bf847"
+    },
+    {
+      "start_time": 4200,
+      "end_time": 4440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "المحافظات المختلفة بتفهم  الاشارة بتاعتهم ولا بتبقي مختلفة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "18f8865f-27eb-453c-a006-d81edbfb9493"
+    },
+    {
+      "start_time": 4380,
+      "end_time": 5040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "لالا مثلا الاسم الفلاح او الصعيدي هما اشارة ثقيل الاثنين خليهم علي جنب ام مصر الاشارة شبه بعض"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "805ca225-b843-42d2-910d-ec071cba5e22"
+    },
+    {
+      "start_time": 5520,
+      "end_time": 5880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "مصر احنا شبة بعض بس في حاجات مختلفه بسيطة شبة بنت و بنت"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "4b717baa-ae0f-4dd6-b663-c392e7c08009"
+    },
+    {
+      "start_time": 6180,
+      "end_time": 6600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اه نفس كل حاجه بس اكيد الاشارة ثقيله"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "2d10f845-2023-4a37-bad0-d111785e3b9c"
+    },
+    {
+      "start_time": 7680,
+      "end_time": 8100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ممكن تقولي مثال الاختلاف بين الفلاحين والصعيد"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "f96396ae-3b27-4d07-84f0-482238be34b8"
+    },
+    {
+      "start_time": 8100,
+      "end_time": 8160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "فلاح او صعيدي"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "f10a45e6-a944-4441-a76e-96482476826c"
+    },
+    {
+      "start_time": 8220,
+      "end_time": 9420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "الصعيدي اشارة ازاي لما اساله هو يفول ليه بتسال  انا بفكر عادي اسال شبه عادي لا مختلفين لازم افهمه الاول ليه وبعد كده نمطلق في الكلام الصعيدي بعد كده هيفهمك "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "96c96ac0-7218-48a3-b691-077a74d78b2c"
+    },
+    {
+      "start_time": 8280,
+      "end_time": 8340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اشاره ايه مختلفه"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "e9bc320d-1e4b-437a-ab7e-e8a6a76fe222"
+    },
+    {
+      "start_time": 11460,
+      "end_time": 11940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "بس الصعيدي مخ ناشف احنا سهل مفيش"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "abe5f540-91c2-47d5-89c9-303c2e339393"
+    },
+    {
+      "start_time": 12840,
+      "end_time": 13380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ده الصم عارفه الصعيدي شوفه يستغربه وميعرفوش ايه  ده لحد ما اطورة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "782269d5-8097-4e88-9784-282962c72acb"
+    },
+    {
+      "start_time": 14520,
+      "end_time": 15000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هل انت بتفهم  الاشارة الدوله العربية مثل السعوديه وقطر ولا اشارتهم مختلفة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "02118a68-7f50-4f7e-bd62-25dcc1cc0717"
+    },
+    {
+      "start_time": 14940,
+      "end_time": 16200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا بفهم العرب بس اروبا شويا شويا امريكا ام العرب افهم بس دة يفهم اشارة اروبا "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "100e85e7-f7b3-4b2f-8f7d-2db76c49229b"
+    },
+    {
+      "start_time": 15240,
+      "end_time": 15420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "كله العرب فاهم"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "1f8e8460-b66f-4fbf-9b21-fdc31b0d94ea"
+    },
+    {
+      "start_time": 15840,
+      "end_time": 15960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "العربي ولا اروبا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "3c37daf8-c1d1-4f4f-9117-7807c40e6c5e"
+    },
+    {
+      "start_time": 16740,
+      "end_time": 17520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "حركة الحروف انا مش بعرفها بس دة شايفة جامد او كويس في الاشارة بسبب الكليه تعلم الاشارة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "5a18f3ce-928f-4143-b27d-1104bdcf8229"
+    },
+    {
+      "start_time": 17580,
+      "end_time": 17820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هو يجي جنبي انا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "f426d8dd-d647-4d6d-bed1-b9552399e34f"
+    },
+    {
+      "start_time": 18180,
+      "end_time": 18240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "فاهم العرب ولا لا "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "81e64530-1f8c-4351-9261-ac9224aeac2f"
+    },
+    {
+      "start_time": 18240,
+      "end_time": 18720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "الوطن العربي ال ٦ سهل الاشارة شية يعض يس الاروبا مش كله اعرف حته حته"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "e654ba65-e1df-45b1-b52e-8df4129b957a"
+    },
+    {
+      "start_time": 18960,
+      "end_time": 19380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "خلاص لو في حاجه انا مش فاهمه او حاجه يسيطة بتصل بصحبي وهو يقولي معناها "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "e30860c6-43c0-499d-b3e4-442e0b756b12"
+    },
+    {
+      "start_time": 19740,
+      "end_time": 19920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "سوال بسيط هو من امريكا صح"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "a1635e88-8efd-4ef8-a5d1-535660627617"
+    },
+    {
+      "start_time": 19860,
+      "end_time": 19920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اه من امريكا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "a4a3e5e8-33d3-4a8c-ad0e-a6d46bdd17ee"
+    },
+    {
+      "start_time": 20100,
+      "end_time": 20340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اول ما وصلت مصر هل كنت بتفهم الاشاره المصرية"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "c4991fef-a347-43c9-bf79-c8054f29c7ce"
+    },
+    {
+      "start_time": 20220,
+      "end_time": 20280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اه امريكا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "18dfa4ab-dba2-4ffe-8aed-a11ed67e3f88"
+    },
+    {
+      "start_time": 20880,
+      "end_time": 21120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "وحدة وحدة ايوا نصف امريكا ناس تفهم ونصف اشارة غريبة مش بتغهم"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "c4485f5b-714e-4d2f-b321-59037b5783b0"
+    },
+    {
+      "start_time": 20880,
+      "end_time": 20940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "وحدة حته حته"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "85baa24e-092a-4ed8-b4cc-2d3ee04d9203"
+    },
+    {
+      "start_time": 23280,
+      "end_time": 23640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اول حاجه انت مضايق او مليت من الاساله مبسوط "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "e2f59346-5420-40e2-8463-5ea732f695bd"
+    },
+    {
+      "start_time": 23880,
+      "end_time": 24240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اول حاجه انتو مضايقين او مليت من الاساله مبسوط "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "6a841930-165b-4a75-84a6-49656fb5f8ec"
+    },
+    {
+      "start_time": 24120,
+      "end_time": 24480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "لا ميسوطين وكمان فرحان انت شخص مخ حلو ،منظم ما شاء الله عليك"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "556ed79b-0a6e-4f1b-bd19-adb800982098"
+    },
+    {
+      "start_time": 24780,
+      "end_time": 25020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا باقي عايز احكي عن مصر في حاجه غلط"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "cf3730f2-c3e2-40bc-b72e-0b46a6c9a49a"
+    },
+    {
+      "start_time": 25320,
+      "end_time": 25620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هو الاول يقول هو عاير ايه وشروط ايه بعد كده يسال "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "88c78ffb-a318-4662-846d-e36f5a1ffd10"
+    },
+    {
+      "start_time": 25860,
+      "end_time": 26040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "سوال هل انتو الاثنين دخلته الكلية ولالا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "b46c62c4-e27b-4364-a9b2-c85abc0cc775"
+    },
+    {
+      "start_time": 26040,
+      "end_time": 26460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ثانوي 3 بس وبعد اتخرجت وبعد كدة في كليه بس خلاص احنا اتحرجنا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "0ef2c296-8b5b-40ca-b352-0b60b5ed1e5c"
+    },
+    {
+      "start_time": 26040,
+      "end_time": 26580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "لا ثانوي3 شبه بعض في كلية بس في مصر هناك "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "0aa7f94b-4367-4556-9c8b-b0048968f9dc"
+    },
+    {
+      "start_time": 26100,
+      "end_time": 26160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ثانوي ٣ ولا اعدادي ٣"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "75db670a-b777-45ce-b844-37b34b6c9bd4"
+    },
+    {
+      "start_time": 26580,
+      "end_time": 26820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "قالولي في مصر انا قولت ايه لا بعيدة لا احسن دبلومه وخلاص"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "2e23f2a9-d1c3-42ba-9964-452ed3f9a3ff"
+    },
+    {
+      "start_time": 27720,
+      "end_time": 28620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هل بتفكر اني مش راضي اكمل لا انا سالت صحبي اوي سالته عن شروط الكليه لاقيت الفلوس غاليه هو صحبي قالي الدبلومه حلوة "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "9c0b70c3-a73d-4ab6-9253-130251feeae4"
+    },
+    {
+      "start_time": 29940,
+      "end_time": 30120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "باقي 3 موافين ولا داقضين"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "0a715623-edf2-45f4-b336-835ec9e5d436"
+    },
+    {
+      "start_time": 30240,
+      "end_time": 30360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "دلوقتي انت شغال ايه "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "bdd6dbb2-df09-4122-b96b-8d2152cc3bc3"
+    },
+    {
+      "start_time": 30360,
+      "end_time": 30720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا كنت شغال الاول مدرس من ٢٠٠٦ بقالي قيها ١٠ ستوات"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "e431e36a-ac52-428a-a797-3255ef9aadbb"
+    },
+    {
+      "start_time": 30720,
+      "end_time": 30900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "كان ياخد معاش بتاع ابوه"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "f95f8602-e04d-4e87-86e6-c5a90744f7d1"
+    },
+    {
+      "start_time": 31080,
+      "end_time": 31380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "قانون الاول غلط ممنوع اخد فلوس من الاثنين المعاش بتاع ولدي وفلوس الشغل مدرس"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "c3033f67-980c-445e-95d8-5fe387923283"
+    },
+    {
+      "start_time": 31320,
+      "end_time": 31620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "عندك اطفال لا ربنا يرزقك وباذن الله خير"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "bed65598-9fd6-4786-99b3-74b6aa67e39e"
+    },
+    {
+      "start_time": 31560,
+      "end_time": 31800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "دلوفتي مغتوح بس الاول قانون ثقيل مقفول"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "3ecfc214-8d65-4de6-8ce2-9d513722dafd"
+    },
+    {
+      "start_time": 31680,
+      "end_time": 31740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "الاول قانون ثقيل"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "b638cda6-3c80-41d0-842e-ee7531e2b52e"
+    },
+    {
+      "start_time": 32100,
+      "end_time": 32220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "دلوفتي انت شغال مدرس"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "a3b875ca-e346-4b1f-8dbf-c8bf5ef8c238"
+    },
+    {
+      "start_time": 32160,
+      "end_time": 32280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "دلوقتي استقالة من المدرسة بس باخد المعاش"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "d989be43-d86c-4d06-9d10-bbe5970263f4"
+    },
+    {
+      "start_time": 32760,
+      "end_time": 32820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "عالي"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "حسن"
+        }
+      ],
+      "uuid": "5a1a980d-8577-4cdd-aac0-20fe592188fe"
+    },
+    {
+      "start_time": 33420,
+      "end_time": 33600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت شغال ايه دلوفتي"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "غفران"
+        }
+      ],
+      "uuid": "61c44d17-2481-4abd-b390-537fc68ea51a"
+    },
+    {
+      "start_time": 33540,
+      "end_time": 33660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "شغال نجار"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "2dd53ccc-f1b5-4388-a266-6fa1ae1a175b"
+    },
+    {
+      "start_time": 33780,
+      "end_time": 34380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "شغال نجار بس سهل مش صعب شبه السرير مطبخ شباك البلكونة السقف كامل"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "1557b0af-7b4e-481a-8b01-c4479757206f"
+    },
+    {
+      "start_time": 34680,
+      "end_time": 35280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انت مفكر اني عشان انا اصم فصعب لا في ممكن نفهم بعض من الكنابة او يجيب صورة من التلفون واتا اعمله"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "002e0ffa-0cff-4021-a775-25cf68bfa716"
+    },
+    {
+      "start_time": 36180,
+      "end_time": 36420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ليه السبب الكتابه عشان في انواع خشب لازم اعرف هو عايز انهي نوع دماغي ما توقفش"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "السيد"
+        }
+      ],
+      "uuid": "c0ffcbd4-f844-49f2-8478-fcc1d906ab10"
     }
   ],
   "event_id": "98915414-14ad-4c9b-9be8-66ac5af89e14",
