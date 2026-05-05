@@ -1,5 +1,1644 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's your name and what's your sign name?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Ghofran"
+        }
+      ],
+      "uuid": "e4d575d6-793c-41d6-b2bf-e7b68a527351"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My name sign is this. My name is Al-Hassan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "415417d1-ed8b-4f0f-84df-734055128cc8"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hang on-- it's AL-Hassan with alif-laam."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "0262a960-6c50-4658-8183-057060e28f2e"
+    },
+    {
+      "start_time": 20,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your name... Al-Sayyed, and your sign name?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Ghofran"
+        }
+      ],
+      "uuid": "220eaa71-a9bd-4a4e-a31a-d0cbe862f148"
+    },
+    {
+      "start_time": 21,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My name is Al-Sayyed"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "3e3904d6-cd38-45cf-b480-bd10278bf84a"
+    },
+    {
+      "start_time": 34,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Al-Sayyed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "41025612-a65b-4731-a25b-4c8573bfd56a"
+    },
+    {
+      "start_time": 36,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The reason this is my name sign is that I have three deaf siblings so since I'm the first this is my name sign."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "0460d169-bc1f-43d7-b06a-7bcfca0ca315"
+    },
+    {
+      "start_time": 56,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "First, where were you born, and where did you grow up? You originally grew up in Al-Shatby?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Ghofran"
+        }
+      ],
+      "uuid": "04b44b32-32ca-4d06-a2d5-578a630f5a39"
+    },
+    {
+      "start_time": 59,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born in Alexandria."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "6a11c142-5cc7-485e-80ca-a7b0ff43838e"
+    },
+    {
+      "start_time": 62,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where? In Al-Shatby by the university there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "1baca991-b520-44e7-a034-fbf1f30ab4b9"
+    },
+    {
+      "start_time": 64,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know by the big dome?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "0e7a3722-51d9-4ca1-bd77-0b0435ba0a79"
+    },
+    {
+      "start_time": 66,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I was born and grew up there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "08620d73-6954-46fb-b8be-6ebf2b4df0a5"
+    },
+    {
+      "start_time": 68,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But my parents and ancestors are from the Bahari (seaside) neighborhood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "e991eed2-fcf7-4d32-be4a-44267b34eebb"
+    },
+    {
+      "start_time": 72,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know where I'm from? From the farmland, I am."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "28b547ad-b410-4c9d-8bd4-6fff2c55e54c"
+    },
+    {
+      "start_time": 75,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where were you born? In Al-Qobari, Alexandria."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Ghofran"
+        }
+      ],
+      "uuid": "a97966cf-8188-4d85-9b4d-5f291decbe8b"
+    },
+    {
+      "start_time": 77,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born precisely there in Al-Qobari."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "532faac2-b31b-4678-8128-72dd6963115a"
+    },
+    {
+      "start_time": 82,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I grew up staying there the whole time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "86ac1b15-7c59-460a-976f-029ae33955d0"
+    },
+    {
+      "start_time": 96,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How old are you now? 51- and you were born in 19-what?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Ghofran"
+        }
+      ],
+      "uuid": "572b70f1-1063-4b2e-8645-eec5341a4d7e"
+    },
+    {
+      "start_time": 98,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm 51. I was born in 1973 during the war in Anwar El-Sadat's presidency."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "55096b72-64f1-4aab-b143-f893f7c6e58e"
+    },
+    {
+      "start_time": 135,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Were you born Deaf originally?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Ghofran"
+        }
+      ],
+      "uuid": "ba7c413a-193b-475a-b770-396decd92e11"
+    },
+    {
+      "start_time": 140,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Were you born-- were you born Deaf?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Ghofran"
+        }
+      ],
+      "uuid": "588d3451-316c-4724-8b9e-8fda887e1571"
+    },
+    {
+      "start_time": 141,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born Deaf just as I am now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "524add15-f3df-4f11-9a49-7a161f749847"
+    },
+    {
+      "start_time": 152,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are 4 hearing people in my family. No other Deaf people. I'm the only one. No others."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "d95fea78-d476-4f6f-ad8c-21c6cbad1efb"
+    },
+    {
+      "start_time": 160,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What about you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Ghofran"
+        }
+      ],
+      "uuid": "bd562e51-7208-4953-906a-0a64c99ab004"
+    },
+    {
+      "start_time": 160,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me, my parents-- my distant relative, he got married and had three Deaf kids."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "69d8b317-9918-47aa-9258-6dfb96d5308b"
+    },
+    {
+      "start_time": 169,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then he had three hearing kids, altogether 6."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "3156809b-3c27-450f-8758-a86f5fa8698f"
+    },
+    {
+      "start_time": 173,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you siblings? Your siblings?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Ghofran"
+        }
+      ],
+      "uuid": "9ecd388c-96e3-43f7-9750-db70ac2664e3"
+    },
+    {
+      "start_time": 175,
+      "end_time": 178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So the siblings are 6-- 3 and 3 Deaf."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "5b8b334b-71f7-40c9-9bc3-00e906645deb"
+    },
+    {
+      "start_time": 180,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And your parents are Deaf, or not?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Ghofran"
+        }
+      ],
+      "uuid": "c5657b05-3b99-4c4e-8849-a167fb6a2efc"
+    },
+    {
+      "start_time": 182,
+      "end_time": 186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My mother and father? No, they're both hearing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "ae783c36-f51d-419d-a156-8e87ef53b191"
+    },
+    {
+      "start_time": 194,
+      "end_time": 201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When you first started school, was it at the Al-Amal School for the Deaf? Your school was here in Mansheyya?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Ghofran"
+        }
+      ],
+      "uuid": "78cb8088-0735-4855-b12a-5dc8f3b2c8a4"
+    },
+    {
+      "start_time": 197,
+      "end_time": 204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm originally Deaf and at first my school was here in the Deaf Association in Mansheyya, but then when I heard that it shut down I moved."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "660181cb-c1fd-458b-a7dc-b18834f1d033"
+    },
+    {
+      "start_time": 219,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born in Al-Qorabi."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "f1456a5f-a779-4497-ac26-9ddb8ffd6a3f"
+    },
+    {
+      "start_time": 220,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I first entered the Deaf school it was new, the one in Gianaclis- the Al-Amal School for the Deaf as it is now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "530a43d8-8eee-4df1-b44f-2ce4da693a3e"
+    },
+    {
+      "start_time": 225,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then, after the third year of secondary school, my class, we weren't satisfied with just a high school degree, we wanted to go to college! That was our idea at first."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "5dfc9ceb-3ce6-4e4c-98e1-ca30713b05fe"
+    },
+    {
+      "start_time": 237,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But the school said no to the idea of college out in that rural area. There is a university out there, it's successful."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "f6647c65-74ac-4be0-9cdc-356340750913"
+    },
+    {
+      "start_time": 243,
+      "end_time": 252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then, Egypt decreed that they had to open up college for us so I was so happy, so I got placed and graduated secondary school, and it's been open ever since."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "2f2605c6-944e-4866-8280-a2f9a09a6959"
+    },
+    {
+      "start_time": 249,
+      "end_time": 256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At first, he and I were together [in school], before no. I was new."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "d9a33ca3-8571-46d2-96c9-098365615e90"
+    },
+    {
+      "start_time": 265,
+      "end_time": 268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Back in high school, all of this (the association) wasn't here. It was new, I was one of the first here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "79daca40-61ba-4673-a549-fd342b659e19"
+    },
+    {
+      "start_time": 267,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was with him too. We're the same."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "1a9221bc-567b-4036-ad0b-e9d5f30e9ac3"
+    },
+    {
+      "start_time": 285,
+      "end_time": 291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you feel that you benefitted from your schooling?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Ghofran"
+        }
+      ],
+      "uuid": "771fbf54-0dd7-466d-8f43-28be1935d105"
+    },
+    {
+      "start_time": 290,
+      "end_time": 303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of course we benefit from the school. There are good teachers and some not so good. There were two very exacting teachers-- he got a good one, I didn't, and we were in separate classes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "e250d1b1-d76d-484a-8fdf-c0c9be264a58"
+    },
+    {
+      "start_time": 296,
+      "end_time": 310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, right. My teachers were really difficult, I was afraid of them. But it was because she wanted us to succeed. His teacher, well he wasn't so great."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "3013a96c-5f7a-4106-a80c-00bb3da706fc"
+    },
+    {
+      "start_time": 331,
+      "end_time": 343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wait a second, I want to say something more. Now, there are Deaf people who have new teachers and don't learn anything! They don't know how to read and write like us. None of them [the teachers] have experience and all they care about is getting their paycheck."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "dee8b5fa-e19f-4178-9684-8621267f8efe"
+    },
+    {
+      "start_time": 344,
+      "end_time": 354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's because, there's blame-- the place that has things done right is here in the Association, or in the Asdaa Association too, there's real education there but not at the Al-Amal School for the Deaf."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "06d20f75-fd96-4f83-9f42-628322c38c54"
+    },
+    {
+      "start_time": 360,
+      "end_time": 363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is the camera working?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "fb3dbd0d-5c20-40c3-ac15-0bcfc8b9e11d"
+    },
+    {
+      "start_time": 364,
+      "end_time": 370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All they had us do was copy what was on the board into our notebooks without us knowing what any of it meant. There were no questions or anything."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "6150d839-c7a1-4cfe-9f69-59c83d73dc4f"
+    },
+    {
+      "start_time": 375,
+      "end_time": 376,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My brain stopped."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "cbef63d0-aa06-4218-a91a-737db9cf8964"
+    },
+    {
+      "start_time": 380,
+      "end_time": 389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I received the Certificate of Merit I went to a great company but everything was \"forbidden, forbidden\" and they just ushered me out unceremoniously. Some places are like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "fd8add59-ff3f-4aec-9747-be1afdec1765"
+    },
+    {
+      "start_time": 399,
+      "end_time": 403,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Deaf people are  skilled and focused workers. That's how we are!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "fba0a31e-1381-4e46-80e1-a64d39584bef"
+    },
+    {
+      "start_time": 415,
+      "end_time": 422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have a question. So before, I worked as a chef in a hotel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "6bb3bef4-4419-4d7f-b208-641c2d2410e8"
+    },
+    {
+      "start_time": 422,
+      "end_time": 425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was working well but I couldn't write that well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "520ff2f0-6c6e-4291-8a17-177c85a908f1"
+    },
+    {
+      "start_time": 425,
+      "end_time": 428,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I was able to finish tasks quickly and efficiently."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "8ce08a83-a8e2-40ce-a7b3-45192c32f7f2"
+    },
+    {
+      "start_time": 429,
+      "end_time": 430,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's differences."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "65f82d22-30a5-40ee-8e1d-436f77938dbf"
+    },
+    {
+      "start_time": 439,
+      "end_time": 442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Someone can have no degree but still be a great worker."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "6814ee0f-38c8-4cb4-afdc-f2307d8918af"
+    },
+    {
+      "start_time": 449,
+      "end_time": 450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you do for work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Ghofran"
+        }
+      ],
+      "uuid": "56f8d22c-6d7b-4b07-9470-171337666030"
+    },
+    {
+      "start_time": 450,
+      "end_time": 463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wait so at school-- he and I were in separate classes. My teacher was difficult, we would be punished. And a second point: writing-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "c04dceb9-2875-45a1-a942-0103e211ab3d"
+    },
+    {
+      "start_time": 469,
+      "end_time": 473,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Was it a man? No the teacher was a woman. She was strong!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "f75f3155-d508-4d77-b2fd-60752a1d0f72"
+    },
+    {
+      "start_time": 475,
+      "end_time": 485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The reason for the punishment was because we would be stubborn, that's all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "df8ea9ea-619f-428c-9a02-9fd062f2eef6"
+    },
+    {
+      "start_time": 485,
+      "end_time": 494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had to really pass the tests, it wasn't like we could just coast through, we were made to write correctly and also to oralize correctly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "77b604c4-4981-4197-99b8-a8735f5b16f7"
+    },
+    {
+      "start_time": 489,
+      "end_time": 503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His group was good at writing, but my group, we were failures. At 8 years, we got a new guy, I was afraid of being punished by him. He's passed away now, may he rest in peace."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "fc4645ac-900a-448e-ad9d-5252c720216d"
+    },
+    {
+      "start_time": 505,
+      "end_time": 511,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our group which had rules and consequences, we were together every year and group up together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "595153bd-9b77-496b-9463-567875086313"
+    },
+    {
+      "start_time": 515,
+      "end_time": 523,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After I graduated, I realized that I understood things well, and it's thanks to that teacher."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "cf91afa4-7795-41e6-aa54-f577815ca4a4"
+    },
+    {
+      "start_time": 537,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was the goal of the punishment?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "123928e2-2d42-4164-846a-093d44a98567"
+    },
+    {
+      "start_time": 540,
+      "end_time": 546,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After year 7 I was put into the good class with him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "30e8b4e3-2e59-41b0-9c42-30b54843c47a"
+    },
+    {
+      "start_time": 554,
+      "end_time": 564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was scared switching classes, or we all were, because I was illiterate, but he would help me with writing and with tests."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "2eea032f-686f-4c04-ab63-f269257035e8"
+    },
+    {
+      "start_time": 572,
+      "end_time": 578,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I made a mistake, I would get my hand hit 10 times as a punishment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "56a9f7e8-30f0-4690-8585-1837209a6ac8"
+    },
+    {
+      "start_time": 581,
+      "end_time": 585,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This demanding teacher was one of a kind, there's no one like her in the whole world."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "757abc81-4759-4161-ac8b-f25440362b65"
+    },
+    {
+      "start_time": 589,
+      "end_time": 590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's fate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "9225f591-2256-489e-a23b-3ae2b4773c2e"
+    },
+    {
+      "start_time": 610,
+      "end_time": 613,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your signing..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Ghofran"
+        }
+      ],
+      "uuid": "fe24a7f6-8cd9-4dc9-8a71-935389bfc952"
+    },
+    {
+      "start_time": 615,
+      "end_time": 625,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is signing the same between the school, your family, and in the Deaf community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Ghofran"
+        }
+      ],
+      "uuid": "f213cae0-5777-429a-a95a-675349403cf3"
+    },
+    {
+      "start_time": 625,
+      "end_time": 627,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, for example, my family uses the same signs. Go ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "611b8d1d-7e66-4c64-94ad-3252007c9254"
+    },
+    {
+      "start_time": 629,
+      "end_time": 641,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My family and I, we communicate with kindness and understand each other, but some other deaf people from other associations sign differently and we don't understand it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "5a284431-458c-473f-945e-3bccf7039146"
+    },
+    {
+      "start_time": 631,
+      "end_time": 634,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you and your family understand each other easily?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Ghofran"
+        }
+      ],
+      "uuid": "b5523186-80fe-40f3-90eb-d56de33f14ce"
+    },
+    {
+      "start_time": 653,
+      "end_time": 665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I used to sign \"heavily\" [with difficulty], and then I came to the association and practiced and now I'm strong signer so I thank the Association."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Hassan"
+        }
+      ],
+      "uuid": "0ef16ff1-fa6d-494b-b0b9-8bad372c03fd"
+    },
+    {
+      "start_time": 671,
+      "end_time": 686,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My family signs the same yes, but girls sign a little bit differently. I know both ways so I can sign one way in one situation and another way in another."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "51b3b2b9-04d6-4237-86b6-9f9e7aeffda0"
+    },
+    {
+      "start_time": 687,
+      "end_time": 692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's because girls are at the school in Hadra, we're at the school in Gianaclis."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "803050f2-a298-4ad1-88fa-995fac4325cb"
+    },
+    {
+      "start_time": 699,
+      "end_time": 703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know how to sign both ways."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Al-Sayyed"
+        }
+      ],
+      "uuid": "4dc81eab-5442-4468-8dfc-1c4a4da2ca73"
+    }
+  ],
   "event_id": "98915414-14ad-4c9b-9be8-66ac5af89e14",
   "set": "English",
   "source_id": "4c2726f0-4922-4598-8f06-242417d5ef99"
