@@ -43,6 +43,30 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "تم هذا اللقاء في شهر أغسطس سنة ٢٠٢٤ في حي المنشية بالاسكندرية داخل جمعية الرابطة الأخوية للصم بالاسكندرية."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "الطالب الأمريكي (إيثان هارتزل) يسأل من قائمة أسئلة لمشاركَين: اسلام (على اليسار) وعبدالعزيز (على اليمين). يقوم غفران جمال (يظهر على اليمين في الجزء الثاني) بترجمة المقابلة."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "This interview took place in July 2024 in the Mansheyya neighborhood of Alexandria, inside the Deaf Fraternal Society of Alexandria."
         }
       ]
@@ -65,7 +89,7 @@
     }
   ],
   "citation": "Ghofran Gamal, Ethan Hartzell, & Ibrahim Ayman. Interview with Eslam and Abdelaziz. August 2024. The Deaf Fraternal Society of Alexandria.",
-  "label": "School Experiences: Eslam & Abdelaziz Part 1 تجارب مدرسية: اسلام وعبدالعزيز الجزء ١",
+  "label": "School Experiences: Eslam & Abdelaziz تجارب مدرسية: اسلام وعبدالعزيز ",
   "av_file_order": [
     "da9cac8f-2350-4fc2-b947-add60d95a333",
     "0f74d97a-bcaf-418e-a035-f6ba5dc534f1"
@@ -73,6 +97,6 @@
   "rights_statement": "https://creativecommons.org/licenses/by-nc/2.5/",
   "created_at": "2026-05-05T23:43:10.748Z",
   "created_by": "ehartz01",
-  "updated_at": "2026-05-06T01:02:16.557Z",
+  "updated_at": "2026-05-06T06:01:57.369Z",
   "updated_by": "ehartz01"
 }
