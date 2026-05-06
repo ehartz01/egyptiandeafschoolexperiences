@@ -1,5 +1,636 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is your name?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Doaa"
+        }
+      ],
+      "uuid": "d97ecddf-6f00-4ab0-b4d8-5cb6aa63b097"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My name is Yusef and my name sign is [index finger on chin]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "b72abb2d-851e-4d7d-94ed-f2f30e350a6b"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How old are you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Doaa"
+        }
+      ],
+      "uuid": "b0be234e-f051-43fe-be53-c1bab17737ae"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm 22 years old."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "e4a3397a-ac27-4db8-923b-84e96217f7bf"
+    },
+    {
+      "start_time": 12,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What year were you born?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Doaa"
+        }
+      ],
+      "uuid": "2d02bda4-e886-47f0-8692-26c93e6a013f"
+    },
+    {
+      "start_time": 14,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2002, I was born in 2002."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "0c5e0b1b-8b87-4bec-b9e6-441306abb0b1"
+    },
+    {
+      "start_time": 24,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm from a part of Egypt which is the governorate of Alexandria and I've been living here up until now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "7d352f8f-c2c8-4466-8e3d-29bb8571c8a8"
+    },
+    {
+      "start_time": 35,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Were you born deaf originally or did you later become deaf later in life?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Doaa"
+        }
+      ],
+      "uuid": "92f2dcdc-f513-4ce8-9466-4ac546b8220d"
+    },
+    {
+      "start_time": 39,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born deaf originally, thank God [alhamdullilah]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "9da5c6d5-8e82-458f-8f19-f4a2945f0a38"
+    },
+    {
+      "start_time": 41,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I was born originally-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "49fedbf3-ae10-4210-bb54-e0ec3c303a77"
+    },
+    {
+      "start_time": 43,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My mother and father, they're deaf."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "b27bcafe-b9e4-4f21-9540-4556ef1b8b68"
+    },
+    {
+      "start_time": 45,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My father was also born deaf originally like normal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "14138e1c-36bc-4277-9e73-68f204520206"
+    },
+    {
+      "start_time": 47,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I have a hearing brother he's the older one and I'm the younger one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "95effdd0-a55a-4626-9d9d-95b0b250a28c"
+    },
+    {
+      "start_time": 59,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you know the origin of how you become deaf?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Doaa"
+        }
+      ],
+      "uuid": "a46a5a79-c4ce-4913-9c43-1986d2335c89"
+    },
+    {
+      "start_time": 63,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "3cf3836e-c46c-4238-981e-33054675c427"
+    },
+    {
+      "start_time": 64,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you know how you became Deaf?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Doaa"
+        }
+      ],
+      "uuid": "c04ee896-6ca5-4d88-b29f-13353f38a379"
+    },
+    {
+      "start_time": 66,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born Deaf, God gave me my Deafness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "5bf191cf-6077-4a6b-84ec-05758cc7b964"
+    },
+    {
+      "start_time": 68,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know that for God to give me Deafness from birth is normal. Of course there are other types of disabilities, like blindness, mental disability, etc. I'm healthy and normal and I thank God for that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "31ce2f6f-025a-47a7-8aba-40c3639e73d5"
+    },
+    {
+      "start_time": 97,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How did you learn to sign?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Doaa"
+        }
+      ],
+      "uuid": "75953c23-bd8c-4ce4-a212-8b261593d382"
+    },
+    {
+      "start_time": 99,
+      "end_time": 115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From my parents, friends from the Deaf Fraternal Society in Mansheyya, before from school at Al-Amal, and also from the Asdaa' association -- all of these experiences gave me signing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "78c86473-ae25-40cd-9c90-634e96ad5355"
+    },
+    {
+      "start_time": 120,
+      "end_time": 124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you go to a deaf school or a hearing school?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Doaa"
+        }
+      ],
+      "uuid": "93aa2e0f-8aa6-4940-84f0-a000f586f422"
+    },
+    {
+      "start_time": 124,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I went to a Deaf public school, the Al-Amal school for the Deaf in Gianaclis."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "1bbb586f-25ea-49b8-9436-3d17053def22"
+    },
+    {
+      "start_time": 132,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you say whether you benefitted from your education, if you enjoyed it, or if you encountered difficulties?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Doaa"
+        }
+      ],
+      "uuid": "2c2822c9-06d7-49a7-97e1-1a4c757ea5e2"
+    },
+    {
+      "start_time": 140,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At first, I went to public school."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "7f0e697b-1a23-4807-8b90-21de2230aa69"
+    },
+    {
+      "start_time": 144,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Private school was expensive, I couldn't afford it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "67624b23-43fe-469d-bbfe-5be23da7b6d8"
+    },
+    {
+      "start_time": 147,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I went to a Deaf public school, you know, the Al-Amal School for the Deaf, that's the one I went to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "3a9a191f-0b70-412a-aa0c-bf93a2cb66a0"
+    },
+    {
+      "start_time": 154,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The public education wasn't so great, so then I came here to the Asdaa' Association where they have educational programs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "98e3d693-b053-4391-b537-c1c7521eb9f3"
+    },
+    {
+      "start_time": 159,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I learned many new things and got to travel abroad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "528540c0-9370-43cc-9e53-3517bd780974"
+    },
+    {
+      "start_time": 162,
+      "end_time": 182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And of course it changed my future. I got a new kind of international job, since 2019 I've been a coach and gotten to travel abroad to Germany."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "Yusef"
+        }
+      ],
+      "uuid": "d08f7386-0462-497a-80d7-1683d000b581"
+    },
+    {
+      "start_time": 181,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mashallah, may God preserve you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Interviewer محاور",
+          "tag": "Doaa"
+        }
+      ],
+      "uuid": "2d972a98-0375-4eeb-89f9-ca266e728769"
+    }
+  ],
   "event_id": "fcadf630-d5ce-448b-8817-d1dd497c5ba4",
   "set": "English",
   "source_id": "6341659f-419c-416c-bab0-3db8c9d96175"
