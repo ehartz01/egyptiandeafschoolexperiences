@@ -6,7 +6,16 @@
       "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=b6FmCxZD7Hg",
       "duration": 0,
-      "caption_set": [],
+      "caption_set": [
+        {
+          "annotation_page_id": "6c3e04a2-2452-48bd-a972-70f08002dd30",
+          "speaker_category": "Signer المؤشر"
+        },
+        {
+          "annotation_page_id": "e32846e4-2ea0-46f1-98aa-b4fbb3d855ce",
+          "speaker_category": "Participant مشارك"
+        }
+      ],
       "set_sort": []
     },
     "0f74d97a-bcaf-418e-a035-f6ba5dc534f1": {
@@ -15,7 +24,16 @@
       "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=YHhkJ_CuyO0",
       "duration": 0,
-      "caption_set": [],
+      "caption_set": [
+        {
+          "annotation_page_id": "2db0ad9c-8fec-4241-9d4a-4e4891febeff",
+          "speaker_category": "Participant مشارك"
+        },
+        {
+          "annotation_page_id": "3087483b-3efe-4e30-9a0b-6605ad640a51",
+          "speaker_category": "Participant مشارك"
+        }
+      ],
       "set_sort": []
     }
   },
@@ -55,6 +73,6 @@
   "rights_statement": "https://creativecommons.org/licenses/by-nc/2.5/",
   "created_at": "2026-05-05T23:43:10.748Z",
   "created_by": "ehartz01",
-  "updated_at": "2026-05-05T23:43:10.748Z",
+  "updated_at": "2026-05-06T01:02:16.557Z",
   "updated_by": "ehartz01"
 }
