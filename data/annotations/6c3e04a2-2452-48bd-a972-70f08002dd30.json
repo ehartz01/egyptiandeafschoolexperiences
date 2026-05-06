@@ -274,27 +274,6 @@
       "uuid": "7a03adde-84fc-4e47-91b0-295d86be6896"
     },
     {
-      "start_time": 97,
-      "end_time": 98,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "???"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Participant مشارك",
-          "tag": "Abdelaziz"
-        }
-      ],
-      "uuid": "d55d7e5a-4253-4c35-80dd-abe86c15c72b"
-    },
-    {
       "start_time": 99,
       "end_time": 100,
       "annotation": [
