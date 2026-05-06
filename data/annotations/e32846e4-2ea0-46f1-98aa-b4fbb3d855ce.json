@@ -1,5 +1,741 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "او تمام أنا هبدأ. اسألني وهجاوب عليك"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "59211bb1-e3b9-4a4d-90a9-eed22aec0928"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "بص له"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "c84df06b-1ea8-4e37-9cda-3cff2d36ef6a"
+    },
+    {
+      "start_time": 9,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "بص له. هيسألين وأنا هجاوب عليه"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "9ced2e0e-c190-4ae6-bf28-82226cf2c1d2"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أوك"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "439973fa-41e9-4b2f-a9e2-3a23c4d70658"
+    },
+    {
+      "start_time": 19,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اسمي؟"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "2cfee629-e865-4ee5-a864-ac5c35f511d8"
+    },
+    {
+      "start_time": 22,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أوك"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "ed51aa9b-cdcf-44b5-9e78-ac9508d28ada"
+    },
+    {
+      "start_time": 27,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اسمي بالعربي ولا بالانجليزي؟"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "792393a4-7598-48d1-bfb4-101a111ee031"
+    },
+    {
+      "start_time": 32,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "هم هيفهوا هناك في امريكا يعني؟ اها هتترجمها تمام تمام"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "6b77dec0-25fe-44e9-95b3-1883cc806ca3"
+    },
+    {
+      "start_time": 40,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اتفضل"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "908d349c-af5f-4ce9-9b11-d557be0e73f9"
+    },
+    {
+      "start_time": 43,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أيوا موافق خلينا نبدأ"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "c3d2188d-57df-4551-9a54-5acb1dc93122"
+    },
+    {
+      "start_time": 48,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنا اسمي عبدالعزيز ودي اشارتي"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "f137333b-bffc-4d71-980a-ba41a4ff35f5"
+    },
+    {
+      "start_time": 57,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اتفضل"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "b15acd1b-027c-4854-a636-d9375e6b6847"
+    },
+    {
+      "start_time": 57,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنا اسمي اسلام ودي اشارتي"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "اسلام"
+        }
+      ],
+      "uuid": "f2b1f02a-2df5-4244-91c4-c81272a53b67"
+    },
+    {
+      "start_time": 67,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "عندي ٣٩ سنة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "3bb8cf57-dd64-49d7-af3f-c2462f0cff20"
+    },
+    {
+      "start_time": 70,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "بالمصري تسعة وتلاتين يعني"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "04ac984a-7d9c-4163-96ab-52bce446cfeb"
+    },
+    {
+      "start_time": 76,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "عندي ٤٢ سنة"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "اسلام"
+        }
+      ],
+      "uuid": "04e9f2ac-e7c5-41f0-9151-1a0dadaace95"
+    },
+    {
+      "start_time": 84,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنا اتولدت في عام ١٩٨٤ "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "d367f3a4-f93f-4c7e-a474-fb778f81dfa8"
+    },
+    {
+      "start_time": 105,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "اتولدت في عام ١٩٨٤ "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "f89fd9dd-05d4-4c9f-bd18-1ff726885efb"
+    },
+    {
+      "start_time": 111,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "وأنا في ١٩٨١"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "اسلام"
+        }
+      ],
+      "uuid": "836d4db2-03b9-4ea8-aa7d-5ce3a2ebb73a"
+    },
+    {
+      "start_time": 128,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنا من الاسكندرية ومولود هنا. أبويا من المنصورة بس أنا طول عمري في الاسكندرية"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "879a5da0-0076-482f-9e43-3459967406bf"
+    },
+    {
+      "start_time": 146,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "دوره هو"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "e38a433f-d482-4a1c-a74f-8f812d533b80"
+    },
+    {
+      "start_time": 147,
+      "end_time": 152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنا مولود هنا في الاسكندرية وأبويا من رشيد"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "اسلام"
+        }
+      ],
+      "uuid": "3d3d6b79-4fd7-4df3-bc33-f13c72b45a23"
+    },
+    {
+      "start_time": 153,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ايوا هناك في رشيد بس انا كبرت هنا على طول"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "اسلام"
+        }
+      ],
+      "uuid": "ac33c7c4-b933-4ec2-b198-7e69df28d672"
+    },
+    {
+      "start_time": 168,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انا اتولدت أصم وعلى طول أصم"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "76530aea-09d0-46c6-8834-df52dc448387"
+    },
+    {
+      "start_time": 172,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنا جتلي سخونية"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "7cace078-fbba-4084-9356-62ef8ec62feb"
+    },
+    {
+      "start_time": 177,
+      "end_time": 186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنا هحكي- زمان لما كنت رضيع فجأة جتلي سخونية عالية "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "d9f1e143-c710-4785-9072-189a0c1d7430"
+    },
+    {
+      "start_time": 186,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ودخلت المستشفى ومن ساعتها بقيت أصم"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "775141c7-8424-40a4-adc9-9bc6ea862afc"
+    },
+    {
+      "start_time": 196,
+      "end_time": 207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "بالنسبة لي, أمي وأبويا قرايب وخلفوا ٤ أولاد صم. أنا أصم وعيلتي فيها ٤ أفراد صم"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "اسلام"
+        }
+      ],
+      "uuid": "36dd138d-7f33-4241-bf47-28f7a3bfcd05"
+    },
+    {
+      "start_time": 208,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "عمري ما جتلي سخونية"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "اسلام"
+        }
+      ],
+      "uuid": "24232a82-b239-422f-90c1-d109f5a439dd"
+    },
+    {
+      "start_time": 212,
+      "end_time": 218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "انما أنا أبويا وأمي مكانوش عارفين بعض وخلفوا ٣ صم"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "d703bc21-b5db-4f36-a800-f6032ed2d631"
+    },
+    {
+      "start_time": 222,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "عيلتي كلها صم يعني"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "7749d7e7-1ea7-4f5d-abd6-9abca379a032"
+    },
+    {
+      "start_time": 232,
+      "end_time": 233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "لا خالص"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "647b3c7f-ab93-44f8-b30c-6e503280554a"
+    },
+    {
+      "start_time": 233,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "عندي قرايب صم على جانب واحد ومن جانب والدتي لكن الجانبين معرفوش بعض"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "عبدالعزيز"
+        }
+      ],
+      "uuid": "07c106e0-57af-4ab1-a4b3-d148e6ab931e"
+    },
+    {
+      "start_time": 243,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "أنا معنديش قرايب صم خالص هو بس انا واخواتي احنى الاربعة وكلنا اتجوزنا من صم"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "اسلام"
+        }
+      ],
+      "uuid": "62915b0f-6032-448f-a263-ea73a1793c4e"
+    },
+    {
+      "start_time": 254,
+      "end_time": 256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "لا أمي وأبويا بيسمعوا"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Participant مشارك",
+          "tag": "اسلام"
+        }
+      ],
+      "uuid": "83393fce-62b6-48d3-b07f-2846e837ea25"
+    }
+  ],
   "event_id": "53c07a5b-15b5-4873-9643-5713b9744bac",
   "set": "العربية",
   "source_id": "da9cac8f-2350-4fc2-b947-add60d95a333"
