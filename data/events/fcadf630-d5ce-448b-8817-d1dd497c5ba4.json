@@ -7,7 +7,11 @@
       "file_url": "https://www.youtube.com/watch?v=Fod4prKeSL4",
       "duration": 0,
       "caption_set": [],
-      "set_sort": []
+      "set_sort": [
+        "a36de1f3-dbf6-4717-985f-441603b8d3af",
+        "7fbd5904-9e6a-4ee3-8aee-263f6455ccb3",
+        "e4aed109-ee80-4808-9f7b-837eb6b5b89f"
+      ]
     },
     "28395a77-184d-4e9e-9fca-30ed9688d1df": {
       "label": "Yusef Part 2 يوسف الجزء الثاني",
@@ -15,7 +19,11 @@
       "file_url": "https://www.youtube.com/watch?v=SrP8BVulZ4g",
       "duration": 0,
       "caption_set": [],
-      "set_sort": [],
+      "set_sort": [
+        "16ad72e2-813a-4bc4-bc00-8b987a661ea7",
+        "a887b7f5-cfa0-4aaa-ba59-7a6c1a49d50d",
+        "23bd4b45-24cb-46ee-94c3-0e40fead3baa"
+      ],
       "file_type": "Video"
     }
   },
@@ -55,6 +63,6 @@
   "rights_statement": "https://creativecommons.org/licenses/by-nc/2.5/",
   "created_at": "2026-05-06T00:16:49.463Z",
   "created_by": "ehartz01",
-  "updated_at": "2026-05-06T00:17:47.369Z",
+  "updated_at": "2026-05-06T05:52:44.620Z",
   "updated_by": "ehartz01"
 }
